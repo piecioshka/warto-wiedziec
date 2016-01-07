@@ -1,6 +1,18 @@
 # Warto wiedzieć
 
-# Warto wiedzieć - 2015/12/31
+## Warto wiedzieć - 2016/01/07 - 2 urodziny
+
+ * https://github.com/loverajoel/jstips - Codziennie nowa ciekawostka ze świata JSa!
+ * https://github.com/flosse/sloc - Policz sobie liczbę linijek Twojego kodu!
+ * http://x-team.com/2015/02/es5-object-defineproperty-method/ - Czy każdy zna `Object.defineProperty()`?
+ * http://singerxt.github.io/LightLazyLoader/ - Przyjemna biblioteka do lazy loading obrazków.
+ * https://www.microsoft.com/en-us/WindowsForBusiness/End-of-IE-support - Koniec `IE 7,8,9`? - Microsoft przestaje wspierać.
+
+Przez ten rok, przez ten kanał komunikacyjny przeszło około 196 linków do interesujących zagadnień z życia JavaScript.
+
+------------------------------------------------------------------------------------------------------------------------
+
+## Warto wiedzieć - 2015/12/31
 
  * https://github.com/tj/git-extras/blob/master/Commands.md#git-obliterate - Wrzuciłeś plik z hasłami do repozytorium? Nie martw się!
  * https://mohebifar.github.io/xto6/ - Kompilacja starej składni (ES5) do nowej (ES6) w prosty sposób.
