@@ -1,5 +1,76 @@
 # Warto wiedzieć
 
+# Warto wiedzieć - 2015/12/31
+
+ * https://github.com/tj/git-extras/blob/master/Commands.md#git-obliterate - Wrzuciłeś plik z hasłami do repozytorium? Nie martw się!
+ * https://mohebifar.github.io/xto6/ - Kompilacja starej składni (ES5) do nowej (ES6) w prosty sposób.
+ * http://tagtree.io/es7-async-await - Asynchorniczny kod pisany w sposób synchroniczny. Wszystko dzięki ES7
+ * https://github.com/mikeflynn/egg.js - Easter Eggs na życzenie
+ * http://brianium.github.io/watermarkjs/ - Znaki wodne na obrazkach
+ * https://github.com/yangmillstheory/chunkify - Odblokuj główny wątek, czyli asynchroniczne pętle
+
+## Warto wiedzieć - 2015/12/24
+
+..
+
+## Warto wiedzieć - 2015/12/17
+
+...
+
+## Warto wiedzieć - 2015/12/10
+
+ * https://github.com/Sahadar/pubsub.js - Jeśli eventy dla Ciebie to za mało, spróbuj kanałów!
+ * https://github.com/visionmedia/debug - Każda pomoc w czasie debugowania się przyda. Dzięki temu narzędziu przyspieszymy trochę codzienność!
+
+## Warto wiedzieć - 2015/12/03
+
+ * http://www.alexkras.com/using-code-snippets-to-test-save-and-reuse-javascript-code-in-chrome-developer-tools/ - Sniplety w DevTools-ach - pożyteczny feature
+ * http://mrale.ph/blog/2013/08/14/hidden-classes-vs-jsperf.html - Co się dzieje z JSPerf?
+
+## Warto wiedzieć - 2015/11/26
+
+...
+
+## Warto wiedzieć - 2015/11/19
+
+ * https://www.youtube.com/watch?v=O1YP8QP9gLA - Debugging Node.js in Production
+ * https://github.com/daneden/animate.css - „Wszystkie" animacje w CSS
+ * http://blog.getify.com/arrow-this/ - Kyle Simpson o Arrow Function
+
+## Warto wiedzieć - 2015/11/12
+
+ * https://github.com/adambom/parallel.js - Przetwarzanie równoległe w JS
+ * https://estimatemyapp.com/ - Kalkulator szacowania kosztów projektów webowych
+ * https://github.com/jaredhanson/passport - Kto potrzebuje logowania poprzez innym portal ten dobrze trafił!
+ * https://surma.link/things/maelstromgaming/ - Jak poprawić parallax scrolling by @surmair
+
+## Warto wiedzieć - 2015/11/05
+
+ * http://bd90.pl/react-pierwsze-kroki-part-1/ - Jak zacząć pisać w React.js?
+ * https://medium.com/@housecor/12-rules-for-professional-javascript-in-2015-f158e7d3f0fc - 12 zasad pisania w JS.
+ * http://jakejs.com/ - Jeden z pierwszych managerów do budowania aplikacji w Node.js
+ * http://blog.153.io/Elessar/ - Draggable multiple range sliders
+ * https://github.com/Modernizr/Modernizr/wiki/HTML5-Cross-Browser-Polyfills - Szukasz polyfilla? Zacznij od tej strony.
+
+## Warto wiedzieć - 2015/10/29
+
+ * https://www.youtube.com/watch?v=65-RbBwZQdU - Performance and benchmarking by Vyacheslav Egorov
+ * https://www.youtube.com/watch?v=sPZK8w55cBQ - Nowa wersja najpopularniejszego narzędzia do "budowania blogów” - Jekyll v3.0
+ * https://enux.pl/article/pl/2015-10-14/ie-dogorywa-%E2%80%93-radujcie-sie - Kilka słów o IE8
+ * https://github.com/avinassh/rockstar - Chcesz być gwiazdą na GtiHub-ie?
+
+## Warto wiedzieć - 2015/10/22
+
+ * http://javascriptplayground.com/blog/2015/03/node-command-line-tool/ - Jak stworzyć „polecenie terminalowe” w Node.js?
+ * http://ng-inspector.org/ - Inspektor do aplikacji napisanych z użyciem Angular.js
+ * https://github.com/sgentle/caniuse-cmd - Can I Use za pomocą jednego polecenia, nie wychodząc z terminala!
+ * http://www.mattermost.org/ - Wersja open source znanego komunikatora Slack
+
+## Warto wiedzieć - 2015/10/15
+
+ * http://wimi5.com/ - Tworzenie gier w HTML online?
+ * https://github.com/connors/photon - Piszesz aplikacje desktopowe w Electronie? Jeśli tak to Photon jest dla Ciebie!
+
 ## Warto wiedzieć - 2015/10/08
 
  * http://blog.gdgpoland.org/2014/04/techniki-uwierzytelniania-w-aplikacjach.html - Kilka Angularowych porad.
@@ -98,7 +169,7 @@
  * https://www.livecoding.tv/livestreams/ - Kodowanie na ekranie!
  * https://github.com/gilbarbara/logos - Znajdź logo dla Twojego narzędzia developerskiego
 
-## Warto wiedzieć - 2015/07/10
+## Warto wiedzieć - 2015/07/09 (10)
 
  * http://tympanus.net/Development/TooltipStylesInspiration/ - Jeśli chcesz zmienić swoje standardowe tooltip-y to skorzystaj z tego!
  * http://www.javascriptoo.com/examples - Bardzo długa lista z przykładami do najpopularniejszych bibliotek i framework-ów.
@@ -134,7 +205,7 @@
  * http://nvie.com/posts/a-successful-git-branching-model/ - Artykuł autora git flow dotyczący właśnie jego :)
  * http://danielkummer.github.io/git-flow-cheatsheet/ - Prosty cheatsheet dotyczący git flow
 
-## Warto wiedzieć - 2015/06/05
+## Warto wiedzieć - 2015/06/04 (05)
 
  * http://perfectionkills.com/understanding-delete/ - Czas zrozumieć jak działa operator `delete`.
  * http://reapp.io/ - Jeśli zależy Ci na większej customizacji mobilnych aplikacji to użyj Reapp (Rect + ES6 + Webpack)
@@ -213,11 +284,11 @@
  * https://hacks.mozilla.org/2015/03/this-api-is-so-fetching/ - Natywne API do wykonywania zapytań
  * http://www.efytimes.com/e1/fullnews.asp?edid=157736 - Lista 8 najlepszych bibliotek 2015 roku
 
-## Warto wiedzieć - 2015/03/17
+## Warto wiedzieć - 2015/03/19
 
 ...
 
-## Warto wiedzieć - 2015/03/10
+## Warto wiedzieć - 2015/03/12
 
 ...
 
@@ -278,7 +349,7 @@
  * https://github.com/divshot/superstatic - Chcesz szybko postawić WebServer bez instalowania potężnych narzędzi i ich skomplikowane konfiguracji? Superstatic jest dla Ciebie!
  * https://github.com/paulirish/memory-stats.js - Monitorowanie pamięci, jest zawsze priorytetem w naszych aplikacjach!
 
-## Warto wiedzieć - 2015/01/16
+## Warto wiedzieć - 2015/01/15 (16)
 
  * https://github.com/sencha/code-guidelines - Kolejne ustalenia odnośnie tego, jak należy pisać kod w JavaScript
  * https://github.com/BlueSpire/Durandal - Kolejny framework MVVM. Napisany przez jednego z ekipy z AngularJS
@@ -290,6 +361,8 @@
  * https://github.com/mgechev/javascript-algorithms - Popularne algorytmy w JavaScript
 
 Przez ten rok, przez ten kanał komunikacyjny przeszło około 214 linków do interesujących zagadnień z życia JavaScript.
+
+------------------------------------------------------------------------------------------------------------------------
 
 ## Warto wiedzieć - 2014/12/18
  * https://gist.github.com/LeverOne/1308368 - Najkrótsze wygenerowanie UUID w JavaScript 
