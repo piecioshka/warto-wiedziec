@@ -24,8 +24,8 @@
 
 ## Warto wiedzieć - 2015/09/17
 
- * http://warsawjs.com/event-13/talk-debugging-javascript-not-only-for-beginners.html - WarsawJS: Debugging JavaScript not only for beginners
- * http://warsawjs.com/event-13/talk-my-10-days-with-phaserjs.html - WarsawJS: My 10 days with Phaser.js
+ * http://warsawjs.com/event-13/talk-debugging-javascript-not-only-for-beginners.html - WarsawJS #13: Debugging JavaScript not only for beginners
+ * http://warsawjs.com/event-13/talk-my-10-days-with-phaserjs.html - WarsawJS #13: My 10 days with Phaser.js
  * http://shields.io/ - Odznaki dla Twojego projektu na GitHub
  * https://www.talater.com/upup/ - Tryb offline Twojej strony? Proszę bardzo!
  * http://www.w3schools.com/charsets/ref_utf_arrows.asp - Wszystkie strzałki które utworzysz korzystając z encji HTML
@@ -67,7 +67,7 @@
 
 ## Warto wiedzieć - 2015/08/06
 
- * https://scotch.io/tutorials/angularjs-seo-with-prerender-io - "Pozycjonowanie SPA, czyli nie skazuj się na drugą stronę Googla” - Poleca prelegent WarsawJS - Arek Kalbarczyk
+ * https://scotch.io/tutorials/angularjs-seo-with-prerender-io - "Pozycjonowanie SPA, czyli nie skazuj się na drugą stronę Googla" - Poleca prelegent WarsawJS - Arek Kalbarczyk
  * http://ecmascript6.pl/articles/ - Nowa porcja artykułów nt. ECMAScript 6
  * http://becausejavascript.com/node-js-process-nexttick-vs-setimmediate/ - Node.js: setImmediate vs process.nextTick
  * http://www.christianalfoni.com/articles/2014_12_13_Webpack-and-react-is-awesome - Webpack + React
@@ -75,7 +75,7 @@
 
 ## Warto wiedzieć - 2015/07/30
 
- * https://github.com/Unitech/PM2 - "Metryki do wszystkiego!” narzędzie do zbierania informacji o procesach w Node.js - Polecane przez Marcin Operacza - prelegenta WarsawJS - https://www.youtube.com/watch?v=P818c0LXV04
+ * https://github.com/Unitech/PM2 - "Metryki do wszystkiego!" narzędzie do zbierania informacji o procesach w Node.js - Polecane przez Marcin Operacza - prelegenta WarsawJS - https://www.youtube.com/watch?v=P818c0LXV04
  * http://socket.io/blog/socket-io-p2p/ - Komunikacja klient-klient? No pewnie! Skorzystaj z Socket.io (używa WebRTC)
  * https://github.com/feross/standard - Standardy w JavaScript - Mit czy prawda?
  * https://github.com/piecioshka/test-html-import - Jak działa HTML Import? Voila!
@@ -157,7 +157,7 @@
  * https://github.com/tj/commander.js - Obsługa parametrów w narzędziach CLI jeszcze nigdy nie była tak prosta!
  * https://david-dm.org/ || https://nodei.co/ || http://shields.io/ - Dodaj odznaki do swojego projektu
  * https://devcenter.heroku.com/articles/node-best-practices - Artykuł dotyczący dobrych praktyk w NodeJS
- * https://shaunlebron.github.io/solar-system-of-js/ - Bardzo ciekawa opisanie świata JavaScript-u za pomocą "układu słonecznego”
+ * https://shaunlebron.github.io/solar-system-of-js/ - Bardzo ciekawa opisanie świata JavaScript-u za pomocą "układu słonecznego"
  * https://github.com/toddmotto/angularjs-styleguide - Zasady składni w projekcie z AngularJS
  * https://github.com/Keyamoon/IcoMoon-Free - Czym, że byłby layout bez ładnych ikonek?
  * https://github.com/redradix/posters - Lista posterów dla najpopularniejszych technologii i języków
@@ -244,6 +244,7 @@
  * https://flipboard.com/@amite/react-js-oqvpbu5kz - Agregat news-ów ze świata React-a
 
 ## Warto wiedzieć - 2015/02/12
+
  * https://github.com/mathiasbynens/mothereff.in - Wiele ciekawych narzędzi by Mathias Bynens
  * http://espy.github.io/ubersicht/#warsawjs - Jeśli jesteście ciekawi, co porabia załoga WarsawJS. Wystarczy zmienić nazwę po hashu, aby zobaczyć co dzieje się w innych teamach.
  * https://github.com/bestiejs/platform.js - Rozpoznaj platformę na której jesteś!
@@ -254,7 +255,7 @@
  * http://tech.pro/blog/1402/five-patterns-to-help-you-tame-asynchronous-javascript - Kilka świetnych wzorców na asynchroniczność
  * https://vimeo.com/117995294 - Ludzka strona Frontend w Polsce.
  * http://int3.github.io/metajs/ - Jak działa Twój kod? Zobacz sam.
- * http://www.smart.biz.pl/techblog/budujmy-szybkie-front-endy - "Budujmy szybkie Front-endy”
+ * http://www.smart.biz.pl/techblog/budujmy-szybkie-front-endy - "Budujmy szybkie Front-endy"
  * http://blog.qbaka.com/post/81596992555/getting-maximum-from-javascript-error-tracking - I to się nazywa podejście do analizy błędów w JS
  * https://errorception.com/ - Konkurencja dla Qbaka
  * https://musculahq.appspot.com/ - Kolejna konkurencja dla Errorception.
@@ -269,9 +270,9 @@
 
 ## Warto wiedzieć - 2015/01/22 - WarsawJS #5
 
- * https://www.youtube.com/watch?v=n8O7l8zZ4Mg - Dariusz Biedrzycki: Co potrafi SVG? - WarsawJS #5 2015-01-16 
- * https://www.youtube.com/watch?v=07fgNHVdF3A - Kamil Kiełbasa: Games development for Smart TV - WarsawJS #5 2015-01-16 
- * https://www.youtube.com/watch?v=m09RWtt5nd8 - Piotr Klibert - Functional and reactive programming techniques - WarsawJS #5 2015-01-16 
+ * https://www.youtube.com/watch?v=n8O7l8zZ4Mg - WarsawJS #5: Dariusz Biedrzycki: Co potrafi SVG? 
+ * https://www.youtube.com/watch?v=07fgNHVdF3A - WarsawJS #5: Kamil Kiełbasa: Games development for Smart TV 
+ * https://www.youtube.com/watch?v=m09RWtt5nd8 - WarsawJS #5: Piotr Klibert - Functional and reactive programming techniques 
  * http://piecioshka.pl/blog/2015/01/19/pokemon-js.html - Pokémon.js
  * https://guides.github.com/introduction/flow/ - Jak ekipa z GitHub-a wyobraża sobie workflow w projektach trzymanych w ich systemie.
  * https://github.com/divshot/superstatic - Chcesz szybko postawić WebServer bez instalowania potężnych narzędzi i ich skomplikowane konfiguracji? Superstatic jest dla Ciebie!
@@ -283,16 +284,11 @@
  * https://github.com/BlueSpire/Durandal - Kolejny framework MVVM. Napisany przez jednego z ekipy z AngularJS
  * https://github.com/meltingice/CamanJS - Kolejne biblioteka do modyfikacji zdjęć w locie.
 
-Dziś jest kolejna odsłona WarsawJS. To już #5 raz się spotykamy.
-Zapraszam serdecznie: Państwomiasto, Andersa 29 godz. 18:30
-Dla tych co nie mogą, będzie live stream na: http://warsawjs.com/
-
 ## Warto wiedzieć - 2015/01/08 - 1 urodziny
 
  * http://documentcloud.github.io/underscore-contrib/ - Pełny stack metod helperów do Underscore.js
  * https://github.com/mgechev/javascript-algorithms - Popularne algorytmy w JavaScript
 
-To już rok!
 Przez ten rok, przez ten kanał komunikacyjny przeszło około 214 linków do interesujących zagadnień z życia JavaScript.
 
 ## Warto wiedzieć - 2014/12/18
@@ -355,7 +351,7 @@ Przez ten rok, przez ten kanał komunikacyjny przeszło około 214 linków do in
 ## Warto wiedzieć - 2014/10/23
 
  * https://github.com/hakimel/Ladda - Fajerwerki JS / CSS
- * https://github.com/chjj/marked - Markdown parser & compilator
+ * https://github.com/chjj/marked - Markdown parser & kompilator
  * https://github.com/square/cubism - Ciekawe wykorzystanie do umieszczenie swoich wykresów aukcji z Forex-u.
  * https://github.com/mozilla/localForage - Nakładka na Offline storage w przeglądarkach
  * https://github.com/imsky/holder - Zaślepki już nigdy nie będą sprawiały problemu!
@@ -366,9 +362,9 @@ Przez ten rok, przez ten kanał komunikacyjny przeszło około 214 linków do in
 
  * http://repl.it - Pisz online w każdym języku!
  * https://github.com/thlorenz/v8-perf - Dla magów wydajności
- * http://davidwalsh.name/function-debounce - „Debounce” bez zależności _.
+ * http://davidwalsh.name/function-debounce - "Debounce" bez zależności _.
  * https://github.com/sindresorhus/gulp-imagemin - Odchudzamy katalog `images`
- * https://www.youtube.com/watch?v=PSGEjv3Tqo0 - "The better parts!” o lepszej stronie mocy w JavaScript 
+ * https://www.youtube.com/watch?v=PSGEjv3Tqo0 - "The better parts!" o lepszej stronie mocy w JavaScript 
  * https://github.com/getify/You-Dont-Know-JS - Kolejna nudna książka o JS
 
 ## Warto wiedzieć - 2014/10/09
@@ -376,7 +372,7 @@ Przez ten rok, przez ten kanał komunikacyjny przeszło około 214 linków do in
  * https://github.com/piecioshka/perfojs - Prosta konkurencja JSPerf-a.
  * https://github.com/addyosmani/timing.js - Analiza czasów statu aplikacji Webowej
  * https://github.com/angular/angular.js/wiki/Understanding-Scopes - Zrozum AngularJS
- * https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/WeakMap - Nie znasz „Słabych mapek”? Poznaj!
+ * https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/WeakMap - Nie znasz "Słabych mapek"? Poznaj!
  * https://www.youtube.com/watch?v=B63jNjSVEbQ - Advanced Debugging Techniques with Chrome
 
 ## Warto wiedzieć - 2014/10/03 - Gry czas!
@@ -384,13 +380,10 @@ Przez ten rok, przez ten kanał komunikacyjny przeszło około 214 linków do in
  * http://codefights.com/ - Gdy ktoś się nudzi ;)
  * http://www.codewars.com/?language=javascript - Gra dla debugging master-ów.
  * http://ctf.uw-team.org/ - Security Game by Unknow. Gra z cyklu: pokonaj webmastera!
-
-Dodatkowo. Materiały wideo z WarsawJS #1:
-
- * https://www.youtube.com/watch?v=ONEctd3l3Lk - Adam Babik: The Future Of JavaScript
- * https://www.youtube.com/watch?v=TljZG9wUnXs - Krzysztof Modras: Ember.js for multipage applications
- * https://www.youtube.com/watch?v=J2Z4IRwZ3Jo - Marcin Cimaszewski: Commercial OpenStreetMap implementation
- * https://www.youtube.com/watch?v=2ktpOVFQOe8 - Piotr Kowalski: First app on Samsung Smart TV platform
+ * https://www.youtube.com/watch?v=ONEctd3l3Lk - WarsawJS #1: Adam Babik: The Future Of JavaScript
+ * https://www.youtube.com/watch?v=TljZG9wUnXs - WarsawJS #1: Krzysztof Modras: Ember.js for multipage applications
+ * https://www.youtube.com/watch?v=J2Z4IRwZ3Jo - WarsawJS #1: Marcin Cimaszewski: Commercial OpenStreetMap implementation
+ * https://www.youtube.com/watch?v=2ktpOVFQOe8 - WarsawJS #1: Piotr Kowalski: First app on Samsung Smart TV platform
 
 ## Warto wiedzieć - 2014/09/25
 
@@ -477,7 +470,7 @@ Istnieje jeszcze możliwość rejestracji: http://devmeetings.pl/pages/angularwr
 
  * http://www.joelonsoftware.com/articles/fog0000000043.html - 12 zasad programisty
  * https://github.com/bolshchikov/js-must-watch - Lista prezentacji które musisz zobaczyć
- * http://aerotwist.com/blog/pixels-are-expensive/ - „Drogie piksele”
+ * http://aerotwist.com/blog/pixels-are-expensive/ - "Drogie piksele"
  * http://jscomplexity.org/ - Pomiar złożoności naszych skryptów pisanych w JavaScript
  * https://github.com/jbt/docker/blob/master/src/docker.js -> http://jbt.github.io/docker/src/docker.js.html - Narzędzie do dokumentowania kodu
 
@@ -562,7 +555,7 @@ Istnieje jeszcze możliwość rejestracji: http://devmeetings.pl/pages/angularwr
 
 ## Warto wiedzieć - 2014/04/10
 
- * http://zaufanatrzeciastrona.pl/post/ogladanie-filmow-sasiada-czyli-ukryte-funkcje-telewizorow-philipsa/ - Philips i jego „otwarte oprogramowanie”
+ * http://zaufanatrzeciastrona.pl/post/ogladanie-filmow-sasiada-czyli-ukryte-funkcje-telewizorow-philipsa/ - Philips i jego "otwarte oprogramowanie"
  * https://github.com/addyosmani/starter - Szkielet aplikacji typu ‚starter’
  * http://www.cyfrowypolsat.pl/praca/nasze-wartosci.cp - Nasze wartości
  * https://github.com/Balamir/smartTV - Konkurencyjna aplikacja Smart TV Alliance
