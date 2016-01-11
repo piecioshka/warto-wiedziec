@@ -1,5 +1,19 @@
 # Warto wiedzieć
 
+## Warto wiedzieć - 2016/01/20
+
+ * https://github.com/zewish/rmodal.js - Modalne okienko w 3 minuty
+ * http://jeromeetienne.github.io/tquery/ - Monitorowanie prędkości animacji
+
+## Warto wiedzieć - 2016/01/13
+
+ * http://visionmedia.github.io/page.js/ - Bardzo prosta obsługa routera na Twoją stronę - tylko JS
+ * https://github.com/mafintosh/is-my-json-valid - Jak sprawdzasz swoje obiekty czy są poprawne? Mam nadzieje, że tak.
+ * https://addyosmani.com/first/ - Kilka zasada w programowaniu by @addyosmani
+ * https://highlightjs.org/ - Najpopularniejszy highlighter składni.
+
+------------------------------------------------------------------------------------------------------------------------
+
 ## Warto wiedzieć - 2016/01/07 - 2 urodziny
 
  * https://github.com/loverajoel/jstips - Codziennie nowa ciekawostka ze świata JSa!
@@ -9,8 +23,6 @@
  * https://www.microsoft.com/en-us/WindowsForBusiness/End-of-IE-support - Koniec `IE 7,8,9`? - Microsoft przestaje wspierać.
 
 Przez ten rok, przez ten kanał komunikacyjny przeszło około 196 linków do interesujących zagadnień z życia JavaScript.
-
-------------------------------------------------------------------------------------------------------------------------
 
 ## Warto wiedzieć - 2015/12/31
 
