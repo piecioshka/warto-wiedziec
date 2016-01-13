@@ -1,11 +1,12 @@
 # Warto wiedzieć
 
-## Warto wiedzieć - 2016/01/20
+## Warto wiedzieć - 2016/01/21
 
  * https://github.com/zewish/rmodal.js - Modalne okienko w 3 minuty
  * http://jeromeetienne.github.io/tquery/ - Monitorowanie prędkości animacji
+ * http://krasimirtsonev.com/blog/article/javascript-library-starter-using-webpack-es6  - Ciekawy artykuł o tym ja tworzyć własne biblioteki
 
-## Warto wiedzieć - 2016/01/13
+## Warto wiedzieć - 2016/01/14
 
  * http://visionmedia.github.io/page.js/ - Bardzo prosta obsługa routera na Twoją stronę - tylko JS
  * https://github.com/mafintosh/is-my-json-valid - Jak sprawdzasz swoje obiekty czy są poprawne? Mam nadzieje, że tak.
