@@ -5,6 +5,7 @@
  * https://github.com/zewish/rmodal.js - Modalne okienko w 3 minuty
  * http://jeromeetienne.github.io/tquery/ - Monitorowanie prędkości animacji
  * http://krasimirtsonev.com/blog/article/javascript-library-starter-using-webpack-es6  - Ciekawy artykuł o tym ja tworzyć własne biblioteki
+ * https://github.com/ikari-pl/gulp-tag-version - Tworzenie taga poprzez Gulp-a: pomocne przy generowaniu paczki aplikacji
 
 ------------------------------------------------------------------------------------------------------------------------
 
@@ -259,7 +260,7 @@ Przez ten rok, przez ten kanał komunikacyjny przeszło około 196 linków do in
  * https://github.com/redradix/posters - Lista posterów dla najpopularniejszych technologii i języków
  * http://maximilianschmitt.me/posts/gulp-js-tutorial-sass-browserify-jade/ - Wideo tutoriale nt. Gulp-a
  * https://github.com/flatiron/director - Routing w Twojej aplikacji jest zapewniony dzięki `director`.
- * http://browserhacks.com/ - I haki trzeba znać! 
+ * http://browserhacks.com/ - I haki trzeba znać!
  * https://www.destroyallsoftware.com/talks/wat - Chwila rozluźnienia przy prezentacji nt. dziwnych zachowań Ruby oraz JavaScript
 
 ## Warto wiedzieć - 2015/05/14
@@ -366,9 +367,9 @@ Przez ten rok, przez ten kanał komunikacyjny przeszło około 196 linków do in
 
 ## Warto wiedzieć - 2015/01/22 - WarsawJS #5
 
- * https://www.youtube.com/watch?v=n8O7l8zZ4Mg - WarsawJS #5: Dariusz Biedrzycki: Co potrafi SVG? 
- * https://www.youtube.com/watch?v=07fgNHVdF3A - WarsawJS #5: Kamil Kiełbasa: Games development for Smart TV 
- * https://www.youtube.com/watch?v=m09RWtt5nd8 - WarsawJS #5: Piotr Klibert - Functional and reactive programming techniques 
+ * https://www.youtube.com/watch?v=n8O7l8zZ4Mg - WarsawJS #5: Dariusz Biedrzycki: Co potrafi SVG?
+ * https://www.youtube.com/watch?v=07fgNHVdF3A - WarsawJS #5: Kamil Kiełbasa: Games development for Smart TV
+ * https://www.youtube.com/watch?v=m09RWtt5nd8 - WarsawJS #5: Piotr Klibert - Functional and reactive programming techniques
  * http://piecioshka.pl/blog/2015/01/19/pokemon-js.html - Pokémon.js
  * https://guides.github.com/introduction/flow/ - Jak ekipa z GitHub-a wyobraża sobie workflow w projektach trzymanych w ich systemie.
  * https://github.com/divshot/superstatic - Chcesz szybko postawić WebServer bez instalowania potężnych narzędzi i ich skomplikowane konfiguracji? Superstatic jest dla Ciebie!
@@ -390,7 +391,7 @@ Przez ten rok, przez ten kanał komunikacyjny przeszło około 214 linków do in
 ------------------------------------------------------------------------------------------------------------------------
 
 ## Warto wiedzieć - 2014/12/18
- * https://gist.github.com/LeverOne/1308368 - Najkrótsze wygenerowanie UUID w JavaScript 
+ * https://gist.github.com/LeverOne/1308368 - Najkrótsze wygenerowanie UUID w JavaScript
  * https://github.com/searls/jasmine-fixture - Używasz Jasmine do testów? Wykorzystaj tą bibliotekę do mockowania DOM-a
  * https://github.com/ttencate/tis - Tetris jak za starych lat - 4KB w JavaScript
  * https://github.com/sethvincent/javascripting - Nauka JavaScript za pomocą terminala? Zgadza się! Polecam.
@@ -462,7 +463,7 @@ Przez ten rok, przez ten kanał komunikacyjny przeszło około 214 linków do in
  * https://github.com/thlorenz/v8-perf - Dla magów wydajności
  * http://davidwalsh.name/function-debounce - "Debounce" bez zależności _.
  * https://github.com/sindresorhus/gulp-imagemin - Odchudzamy katalog `images`
- * https://www.youtube.com/watch?v=PSGEjv3Tqo0 - "The better parts!" o lepszej stronie mocy w JavaScript 
+ * https://www.youtube.com/watch?v=PSGEjv3Tqo0 - "The better parts!" o lepszej stronie mocy w JavaScript
  * https://github.com/getify/You-Dont-Know-JS - Kolejna nudna książka o JS
 
 ## Warto wiedzieć - 2014/10/09
@@ -561,7 +562,7 @@ Istnieje jeszcze możliwość rejestracji: http://devmeetings.pl/pages/angularwr
 
  * https://developer.mozilla.org/en-US/docs/Web/CSS/pointer-events
  * http://www.thecssninja.com/javascript/pointer-events-60fps - 60fps scrolling using pointer-events: none
- * http://www.thecssninja.com/javascript/follow-up-60fps-scroll 
+ * http://www.thecssninja.com/javascript/follow-up-60fps-scroll
  * http://wilsonpage.co.uk/preventing-layout-thrashing/ - Preventing 'layout thrashing'
 
 ## Warto wiedzieć - 2014/07/17
