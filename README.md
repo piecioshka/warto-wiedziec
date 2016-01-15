@@ -6,14 +6,14 @@
  * http://jeromeetienne.github.io/tquery/ - Monitorowanie prędkości animacji
  * http://krasimirtsonev.com/blog/article/javascript-library-starter-using-webpack-es6  - Ciekawy artykuł o tym ja tworzyć własne biblioteki
 
-## Warto wiedzieć - 2016/01/14
+------------------------------------------------------------------------------------------------------------------------
+
+## Warto wiedzieć - 2016/01/14 (15)
 
  * http://visionmedia.github.io/page.js/ - Bardzo prosta obsługa routera na Twoją stronę - tylko JS
  * https://github.com/mafintosh/is-my-json-valid - Jak sprawdzasz swoje obiekty czy są poprawne? Mam nadzieje, że tak.
  * https://addyosmani.com/first/ - Kilka zasada w programowaniu by @addyosmani
  * https://highlightjs.org/ - Najpopularniejszy highlighter składni.
-
-------------------------------------------------------------------------------------------------------------------------
 
 ## Warto wiedzieć - 2016/01/07 - 2 urodziny
 
