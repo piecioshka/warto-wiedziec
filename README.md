@@ -1,5 +1,9 @@
 # Warto wiedzieć
 
+## Warto wiedzieć - 2016/01/28
+
+ * http://loading.io/ - Loadery jakich świat nie widział!
+
 ## Warto wiedzieć - 2016/01/21
 
  * https://github.com/zewish/rmodal.js - Modalne okienko w 3 minuty
