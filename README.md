@@ -3,15 +3,16 @@
 ## Warto wiedzieć - 2016/01/28
 
  * http://loading.io/ - Loadery jakich świat nie widział!
+ * https://www.npmjs.com/package/gh-pages - Deployment na GitHub Pages łatwy jak bułka z masłem!
 
-## Warto wiedzieć - 2016/01/21
+------------------------------------------------------------------------------------------------------------------------
+
+## Warto wiedzieć - 2016/01/21 (22)
 
  * https://github.com/zewish/rmodal.js - Modalne okienko w 3 minuty
  * http://jeromeetienne.github.io/tquery/ - Monitorowanie prędkości animacji
  * http://krasimirtsonev.com/blog/article/javascript-library-starter-using-webpack-es6  - Ciekawy artykuł o tym ja tworzyć własne biblioteki
  * https://github.com/ikari-pl/gulp-tag-version - Tworzenie taga poprzez Gulp-a: pomocne przy generowaniu paczki aplikacji
-
-------------------------------------------------------------------------------------------------------------------------
 
 ## Warto wiedzieć - 2016/01/14 (15)
 
