@@ -1,12 +1,14 @@
 # Warto wiedzieć
 
+## Warto wiedzieć - 2016/02/04
+
+------------------------------------------------------------------------------------------------------------------------
+
 ## Warto wiedzieć - 2016/01/28
 
  * http://loading.io/ - Loadery jakich świat nie widział!
  * https://www.npmjs.com/package/gh-pages - Deployment na GitHub Pages łatwy jak bułka z masłem!
  * https://github.com/cht8687/You-Dont-Need-Lodash-Underscore - Jak sobie radzić bez Lodash-a i Underscore-a
-
-------------------------------------------------------------------------------------------------------------------------
 
 ## Warto wiedzieć - 2016/01/21 (22)
 
