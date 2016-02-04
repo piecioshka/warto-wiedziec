@@ -1,11 +1,13 @@
 # Warto wiedzieć
 
+## Warto wiedzieć - 2016/02/11
+
+------------------------------------------------------------------------------------------------------------------------
+
 ## Warto wiedzieć - 2016/02/04
 
  * https://github.com/cdnjs/cdnjs - Wszystkie biblioteki w jednym miejscu?
  * https://github.com/piecioshka/super-event-emitter - Super prosta implementacja event-emittera.
-
-------------------------------------------------------------------------------------------------------------------------
 
 ## Warto wiedzieć - 2016/01/28
 
