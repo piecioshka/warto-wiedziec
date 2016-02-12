@@ -1,11 +1,15 @@
 # Warto wiedzieć
 
-## Warto wiedzieć - 2016/02/11
+## Warto wiedzieć - 2016/02/18
 
- * https://github.com/esdoc/esdoc - Narzędzie do budowania dokumentacji z kodu w ES6
- * https://www.youtube.com/watch?v=JVlfj7mQZPo - Chcesz usunąć śmierdzący kod?
+ * waiting....
 
 ------------------------------------------------------------------------------------------------------------------------
+
+## Warto wiedzieć - 2016/02/11 (12)
+
+ * https://www.youtube.com/watch?v=JVlfj7mQZPo - Chcesz usunąć śmierdzący kod?
+ * https://github.com/esdoc/esdoc - Narzędzie do budowania dokumentacji z kodu w ES6
 
 ## Warto wiedzieć - 2016/02/04
 
