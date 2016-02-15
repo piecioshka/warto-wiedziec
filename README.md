@@ -2,7 +2,7 @@
 
 ## Warto wiedzieć - 2016/02/18
 
- * waiting....
+ * https://github.com/jdan/cleaver - Prosty sposób na slajdy z użyciem Markdown-a
 
 ------------------------------------------------------------------------------------------------------------------------
 
