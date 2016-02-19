@@ -1,10 +1,15 @@
 # Warto wiedzieć
 
-## Warto wiedzieć - 2016/02/18
+## Warto wiedzieć - 2016/02/25
 
- * https://github.com/jdan/cleaver - Prosty sposób na slajdy z użyciem Markdown-a
+ * 
 
 ------------------------------------------------------------------------------------------------------------------------
+
+## Warto wiedzieć - 2016/02/18 (19)
+
+ * https://github.com/jdan/cleaver - Prosty sposób na slajdy z użyciem Markdown-a
+ * http://dailyjs.com/2015/07/02/small-modules-complexity-over-size/ - Wyjaśnienie zasady działania paczek w NPM
 
 ## Warto wiedzieć - 2016/02/11 (12)
 
