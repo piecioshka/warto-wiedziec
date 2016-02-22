@@ -2,7 +2,7 @@
 
 ## Warto wiedzieć - 2016/02/25
 
- * 
+ * https://curiosity-driven.org/amd-loader-with-promises - Twój własny `module loader` w kilkudziesięciu linijkach
 
 ------------------------------------------------------------------------------------------------------------------------
 
