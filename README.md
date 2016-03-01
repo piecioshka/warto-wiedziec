@@ -1,10 +1,15 @@
 # Warto wiedzieć
 
-## Warto wiedzieć - 2016/02/25
+## Warto wiedzieć - 2016/03/03
 
  * https://curiosity-driven.org/amd-loader-with-promises - Twój własny `module loader` w kilkudziesięciu linijkach
+ * http://github.hubspot.com/shepherd/docs/welcome/ - Narzędzie opisujące wybrane element na stronie w postaci kreatora
 
 ------------------------------------------------------------------------------------------------------------------------
+
+## Warto wiedzieć - 2016/02/25
+
+...
 
 ## Warto wiedzieć - 2016/02/18 (19)
 
