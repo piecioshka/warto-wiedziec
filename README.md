@@ -4,6 +4,8 @@
 
  * https://curiosity-driven.org/amd-loader-with-promises - Twój własny `module loader` w kilkudziesięciu linijkach
  * http://github.hubspot.com/shepherd/docs/welcome/ - Narzędzie opisujące wybrane element na stronie w postaci kreatora
+ * http://www.thatjsdude.com/interview/js1.html - Pytania na rekrutację dla JavaScript developera
+ * http://www.thatjsdude.com/interview/js2.html - Druga część pytań.
 
 ------------------------------------------------------------------------------------------------------------------------
 
