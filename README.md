@@ -1,10 +1,18 @@
 # Warto wiedzieć
 
-## Warto wiedzieć - 2016/03/31
+## Warto wiedzieć - 2016/04/14
 
- * 
+ * https://github.com/kenwheeler/cash/
 
 ---
+
+## Warto wiedzieć - 2016/04/07
+
+...
+
+## Warto wiedzieć - 2016/03/31
+
+...
 
 ## Warto wiedzieć - 2016/03/24
 
