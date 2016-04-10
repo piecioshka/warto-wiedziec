@@ -2,7 +2,9 @@
 
 ## Warto wiedzieć - 2016/04/14
 
- * https://github.com/kenwheeler/cash/
+ * https://github.com/kenwheeler/cash/ - Mniejsze niż jQuery.
+ * https://github.com/dylang/npm-check - Zarządzanie paczkami w Twoim projekcie w prosty sposób.
+ * https://freecodecamp.com/ - Nauka JavaScriprt za darmo - od podstaw po frameworki!
 
 ---
 
