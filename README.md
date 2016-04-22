@@ -2,11 +2,15 @@
 
 ## Warto wiedzieć - 2016/04/21
 
+ *  ...
+
+-------
+
+## Warto wiedzieć - 2016/04/23
+
  * https://github.com/sindresorhus/awesome-npm - Lista wskazówek podczas pracy z npm.
  * http://bd90.pl/konsola-git-bash-w-programie-php-storm/ - Konkretny artykuł opisujący sposób konfiguracji terminala w PHPStorm pod systemem Windows?
  * http://piecioshka.pl/blog/2016/04/16/definicje-testow.html - Artykuł opisujący podstawowe 6 typów testów w Inżynierii Oprogramowania.
-
----
 
 ## Warto wiedzieć - 2016/04/14
 
