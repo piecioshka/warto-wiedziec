@@ -3,6 +3,7 @@
 ## Warto wiedzieć - 2016/04/28
 
  * https://github.com/marufsiddiqui/Books - Projekt zawierający książki (na jakiej zasadzie to działa? trudno powiedzieć)
+ * https://github.com/kentcdodds/cross-env - Jeśli masz problem ze zmiennymi środowiskowymi na Windowsie to użyj tej paczki!
 
 -------
 
