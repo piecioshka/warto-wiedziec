@@ -2,6 +2,8 @@
 
 ## Warto wiedzieć - 2016/05/05
 
+ * http://cezarywalenciuk.pl/blog/programing/post/design-principles-zasady-projektowe-stosowane-we-wzorcach - Kilka słów o wzorcach projektwych.
+
 -------
 
 ## Warto wiedzieć - 2016/04/28
