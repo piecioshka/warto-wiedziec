@@ -4,6 +4,7 @@
 
  * https://github.com/marufsiddiqui/Books - Projekt zawierający książki (na jakiej zasadzie to działa? trudno powiedzieć)
  * https://github.com/kentcdodds/cross-env - Jeśli masz problem ze zmiennymi środowiskowymi na Windowsie to użyj tej paczki!
+ * http://blog.keithcirkel.co.uk/how-to-use-npm-as-a-build-tool/ - Mnóstwo wskazówek odnośnie korzystania z `npm run-scripts`.
 
 -------
 
