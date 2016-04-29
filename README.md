@@ -3,6 +3,7 @@
 ## Warto wiedzieć - 2016/05/05
 
  * http://cezarywalenciuk.pl/blog/programing/post/design-principles-zasady-projektowe-stosowane-we-wzorcach - Kilka słów o wzorcach projektwych.
+ * https://github.com/sahat/hackathon-starter - Jeśli ktoś udziela się hackathona to warto zapoznać się z tym projektem.
 
 -------
 
