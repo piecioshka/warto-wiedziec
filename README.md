@@ -4,6 +4,7 @@
 
  * http://cezarywalenciuk.pl/blog/programing/post/design-principles-zasady-projektowe-stosowane-we-wzorcach - Kilka słów o wzorcach projektwych.
  * https://github.com/sahat/hackathon-starter - Jeśli ktoś udziela się hackathona to warto zapoznać się z tym projektem.
+ * http://sekurak.pl/ukryte-katalogi-i-pliki-jako-zrodlo-informacji-o-aplikacjach-internetowych/ - Pamiętajcie o nie kopiowaniu na serwer projektu z katalogiem ".git"
 
 -------
 
