@@ -7,6 +7,7 @@
  * http://sekurak.pl/ukryte-katalogi-i-pliki-jako-zrodlo-informacji-o-aplikacjach-internetowych/ - Pamiętajcie o nie kopiowaniu na serwer projektu, tylko aplikację!
  * https://medium.com/@rajaraodv/webpack-the-confusing-parts-58712f8fcad9 - Świetny manual o podstawach webpacka.
  * http://www.webdesignrepo.com/ - Ogromna pokategoryzowana baza interesujących źródeł.
+ * http://thatjsdude.com/interview/ - Lista pytań pomocnych podczas rozmowy rekrutacyjnej na JS Developera.
 
 -------
 
