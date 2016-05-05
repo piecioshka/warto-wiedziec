@@ -1,15 +1,18 @@
 # Warto wiedzieć
 
-## Warto wiedzieć - 2016/05/05
+## Warto wiedzieć - 2016/05/12
 
- * http://cezarywalenciuk.pl/blog/programing/post/design-principles-zasady-projektowe-stosowane-we-wzorcach - Kilka słów o wzorcach projektwych.
- * https://github.com/sahat/hackathon-starter - Jeśli ktoś udziela się hackathona to warto zapoznać się z tym projektem.
- * http://sekurak.pl/ukryte-katalogi-i-pliki-jako-zrodlo-informacji-o-aplikacjach-internetowych/ - Pamiętajcie o nie kopiowaniu na serwer projektu, tylko aplikację!
  * https://medium.com/@rajaraodv/webpack-the-confusing-parts-58712f8fcad9 - Świetny manual o podstawach webpacka.
  * http://www.webdesignrepo.com/ - Ogromna pokategoryzowana baza interesujących źródeł.
  * http://thatjsdude.com/interview/ - Lista pytań pomocnych podczas rozmowy rekrutacyjnej na JS Developera.
 
 -------
+
+## Warto wiedzieć - 2016/05/05
+
+ * http://cezarywalenciuk.pl/blog/programing/post/design-principles-zasady-projektowe-stosowane-we-wzorcach - Kilka słów o wzorcach projektwych.
+ * https://github.com/sahat/hackathon-starter - Jeśli ktoś udziela się hackathona to warto zapoznać się z tym projektem.
+ * http://sekurak.pl/ukryte-katalogi-i-pliki-jako-zrodlo-informacji-o-aplikacjach-internetowych/ - Pamiętajcie o nie kopiowaniu na serwer projektu, tylko aplikację!
 
 ## Warto wiedzieć - 2016/04/28
 
