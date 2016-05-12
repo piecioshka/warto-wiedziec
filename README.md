@@ -1,12 +1,16 @@
 # Warto wiedzieć
 
+## Warto wiedzieć - 2016/05/19
+
+ * ...
+
+-------
+
 ## Warto wiedzieć - 2016/05/12
 
  * https://medium.com/@rajaraodv/webpack-the-confusing-parts-58712f8fcad9 - Świetny manual o podstawach webpacka.
  * https://rrrepo.co/repo/webdesign - Ogromna pokategoryzowana baza interesujących źródeł.
  * http://thatjsdude.com/interview/ - Lista pytań pomocnych podczas rozmowy rekrutacyjnej na JS Developera.
-
--------
 
 ## Warto wiedzieć - 2016/05/05
 
