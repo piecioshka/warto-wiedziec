@@ -8,7 +8,7 @@
 
 ## Warto wiedzieć - 2016/05/19
 
- * http://helion.pl/seria-JS.phtml
+ * http://helion.pl/seria-JS.phtml - Kolekcja YDKJS po polsku!
 
 ## Warto wiedzieć - 2016/05/12
 
