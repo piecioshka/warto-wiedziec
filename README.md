@@ -2,7 +2,7 @@
 
 ## Warto wiedzieć - 2016/05/19
 
- * ...
+ * http://helion.pl/search?qa=&serwisyall=0&szukaj=Tajniki+j%25EAzyka+JavaScript&wprzyg=0&wsprzed=1 - Kolekcja YDKJS po polsku!
 
 -------
 
