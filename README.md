@@ -3,6 +3,7 @@
 ## Warto wiedzieć - 2016/05/26
 
  * http://ryanmorr.com/true-hash-maps-in-javascript/ - Jak w JavaScript uzyskać "prawdziwe" hashmapy?
+ * https://github.com/scottcorgan/immu - Mała biblioteka pomagająca uzyskać efekt "immutable object"
 
 -------
 
