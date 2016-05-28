@@ -6,6 +6,7 @@
  * https://github.com/scottcorgan/immu - Mała biblioteka pomagająca uzyskać efekt "immutable object"
  * https://www.npmjs.com/package/ghooks - Podpięcie się pod zdarzenia GITa jeszcze nigdy nie były tak proste!
  * https://github.com/jonobr1/two.js - Prosta biblioteka do animacji
+ * https://jslive.com/ - Konkurencja dla Warto wiedzieć! Agregat źródeł o JS (aktualizowany codziennie)
 
 -------
 
