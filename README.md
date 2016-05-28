@@ -5,6 +5,7 @@
  * http://ryanmorr.com/true-hash-maps-in-javascript/ - Jak w JavaScript uzyskać "prawdziwe" hashmapy?
  * https://github.com/scottcorgan/immu - Mała biblioteka pomagająca uzyskać efekt "immutable object"
  * https://www.npmjs.com/package/ghooks - Podpięcie się pod zdarzenia GITa jeszcze nigdy nie były tak proste!
+ * https://github.com/jonobr1/two.js - Prosta biblioteka do animacji
 
 -------
 
