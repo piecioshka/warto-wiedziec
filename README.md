@@ -8,6 +8,7 @@
  * https://github.com/jonobr1/two.js - Prosta biblioteka do animacji
  * https://jslive.com/ - Konkurencja dla Warto wiedzieć! Agregat źródeł o JS (aktualizowany codziennie)
  * https://plainjs.com/ - Siła czystego języka!
+ * https://github.com/michaeldfallen/git-radar - Twój propmt powie Ci jaki jest status projektu wersjonowanego przez Git.
 
 -------
 
