@@ -1,16 +1,20 @@
 # Warto wiedzieć
 
-## Warto wiedzieć - 2016/06/02
+## Warto wiedzieć - 2016/06/09
 
+ * ...
+
+-------
+
+## Warto wiedzieć - 2016/06/03
+
+ * https://plainjs.com/ - Siła czystego języka!
  * http://ryanmorr.com/true-hash-maps-in-javascript/ - Jak w JavaScript uzyskać "prawdziwe" hashmapy?
  * https://github.com/scottcorgan/immu - Mała biblioteka pomagająca uzyskać efekt "immutable object"
  * https://www.npmjs.com/package/ghooks - Podpięcie się pod zdarzenia GITa jeszcze nigdy nie były tak proste!
  * https://github.com/jonobr1/two.js - Prosta biblioteka do animacji
  * https://jslive.com/ - Konkurencja dla Warto wiedzieć! Agregat źródeł o JS (aktualizowany codziennie)
- * https://plainjs.com/ - Siła czystego języka!
  * https://github.com/michaeldfallen/git-radar - Twój propmt powie Ci jaki jest status projektu wersjonowanego przez Git.
-
--------
 
 ## Warto wiedzieć - 2016/05/26
 
