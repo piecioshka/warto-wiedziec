@@ -2,7 +2,7 @@
 
 ## Warto wiedzieć - 2016/06/09
 
- * ...
+ * https://github.com/grafana/grafana - Świetnie wyglądająe wykresy (coś dla DevOpsów)
 
 -------
 
