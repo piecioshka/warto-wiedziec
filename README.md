@@ -3,6 +3,7 @@
 ## Warto wiedzieć - 2016/06/09
 
  * https://github.com/grafana/grafana - Świetnie wyglądająe wykresy (coś dla DevOpsów)
+ * https://blockly-games.appspot.com/ - Wciągająca gra do nauki programowania w JavaScript!
 
 -------
 
