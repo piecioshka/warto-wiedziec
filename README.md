@@ -4,6 +4,7 @@
 
  * https://github.com/grafana/grafana - Świetnie wyglądająe wykresy (coś dla DevOpsów)
  * https://blockly-games.appspot.com/ - Wciągająca gra do nauki programowania w JavaScript!
+ * https://github.com/git-tips/tips - Wskazówki do Gita na każdy dzień!
 
 -------
 
