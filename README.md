@@ -1,10 +1,12 @@
 # Warto wiedzieć
 
+## Warto wiedzieć - 2016/06/30
+
+-------
+
 ## Warto wiedzieć - 2016/06/23
 
  * https://github.com/mathiasvr/youtube-terminal - Oglądaj filmy z YouTube w terminalu!
-
- -------
 
 ## Warto wiedzieć - 2016/06/16
 
