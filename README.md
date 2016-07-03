@@ -1,8 +1,14 @@
 # Warto wiedzieć
 
-## Warto wiedzieć - 2016/06/30
+## Warto wiedzieć - 2016/07/07
+
+ * http://jonathancreamer.com/what-the-flux - Krótki artykuł wyjaśnijący co to jest Flux.
 
 -------
+
+## Warto wiedzieć - 2016/06/30
+
+ * ....
 
 ## Warto wiedzieć - 2016/06/23
 
