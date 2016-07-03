@@ -10,6 +10,7 @@
  * https://medium.com/@yamalight/using-postal-js-as-flux-dispatcher-in-your-modular-react-application-with-turris-js-1355e9feacc9 - Możliwości biblioteki Postal.js
  * http://npm-stat.com/charts.html - Wykresy paczek w npm. Świetne, aby zoobrazować popularność projektu.
  * http://json5.org/ - Ulepszona wersja JSONa zawierająca m.in. wsparcie dla komentarzy (jest też json5-loader do webpacka)
+ * https://medium.com/webpack/webpack-its-getting-real-92c60fca1db1 - Co słuchać nowego w projekcie Webpack?
 
 -------
 
