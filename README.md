@@ -6,6 +6,7 @@
  * https://github.com/STRML/keyMirror - Prosta biblioteka, do kopiowania nazwy klucza i użycia go jako wartości.
  * https://github.com/felixge/node-memory-leak-tutorial - Jak znaleźć MEMORY LEAK w Node.js?
  * https://github.com/paypal/seifnode - Nowy projekt Douglasa Crockforda: The Seif Project
+ * https://www.smashingmagazine.com/2015/02/avoid-javascript-mistakes-with-static-code-analyzer/ - Artkuł o linterach.
 
 -------
 
