@@ -9,6 +9,7 @@
  * https://www.smashingmagazine.com/2015/02/avoid-javascript-mistakes-with-static-code-analyzer/ - Artkuł o linterach.
  * https://medium.com/@yamalight/using-postal-js-as-flux-dispatcher-in-your-modular-react-application-with-turris-js-1355e9feacc9 - Możliwości biblioteki Postal.js
  * http://npm-stat.com/charts.html - Wykresy paczek w npm. Świetne, aby zoobrazować popularność projektu.
+ * http://json5.org/ - Ulepszona wersja JSONa zawierająca m.in. wsparcie dla komentarzy (jest też json5-loader do webpacka)
 
 -------
 
