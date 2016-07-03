@@ -8,6 +8,7 @@
  * https://github.com/paypal/seifnode - Nowy projekt Douglasa Crockforda: The Seif Project
  * https://www.smashingmagazine.com/2015/02/avoid-javascript-mistakes-with-static-code-analyzer/ - Artkuł o linterach.
  * https://medium.com/@yamalight/using-postal-js-as-flux-dispatcher-in-your-modular-react-application-with-turris-js-1355e9feacc9 - Możliwości biblioteki Postal.js
+ * http://npm-stat.com/charts.html - Wykresy paczek w npm. Świetne, aby zoobrazować popularność projektu.
 
 -------
 
