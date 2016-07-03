@@ -11,6 +11,7 @@
  * http://npm-stat.com/charts.html - Wykresy paczek w npm. Świetne, aby zoobrazować popularność projektu.
  * http://json5.org/ - Ulepszona wersja JSONa zawierająca m.in. wsparcie dla komentarzy (jest też json5-loader do webpacka)
  * https://medium.com/webpack/webpack-its-getting-real-92c60fca1db1 - Co słuchać nowego w projekcie Webpack?
+ * https://blog.andyet.com/2015/08/06/what-the-flux-lets-redux/ - Czym jest ten Redux?
 
 -------
 
