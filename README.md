@@ -5,6 +5,7 @@
  * http://jonathancreamer.com/what-the-flux - Krótki artykuł wyjaśnijący co to jest Flux.
  * https://github.com/STRML/keyMirror - Prosta biblioteka, do kopiowania nazwy klucza i użycia go jako wartości.
  * https://github.com/felixge/node-memory-leak-tutorial - Jak znaleźć MEMORY LEAK w Node.js?
+ * https://github.com/sindresorhus/query-string - Kto ma problemy z parsowaniem URLa?
 
 ## Warto wiedzieć - 2016/07/14
 
