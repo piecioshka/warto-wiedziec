@@ -7,6 +7,7 @@
  * https://github.com/felixge/node-memory-leak-tutorial - Jak znaleźć MEMORY LEAK w Node.js?
  * https://github.com/sindresorhus/query-string - Kto ma problemy z parsowaniem URLa?
  * https://rainsoft.io/must-know-details-about-es2016-features/ - Opis nowości w nowej specyfikacji ES2016
+ * http://espadrine.github.io/New-In-A-Spec/ - Co ciekawego i nowego w specyfikacjach?
 
 -------
 
