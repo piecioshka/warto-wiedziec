@@ -12,7 +12,7 @@
 ## Warto wiedzieć - 2016/07/21
 
  * https://twitter.com/kaycebasques/status/755817600249044992 - Ułatwienie w debugowaniu w Google Chrome.
- * http://jonathancreamer.com/what-the-flux - Krótki artykuł wyjaśnijący co to jest Flux.
+ * http://jonathancreamer.com/what-the-flux - Krótki artykuł wyjaśniający co to jest Flux.
  * https://github.com/STRML/keyMirror - Prosta biblioteka, do kopiowania nazwy klucza i użycia go jako wartości.
  * https://github.com/sindresorhus/query-string - Kto ma problemy z parsowaniem URLa?
 
