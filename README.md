@@ -1,13 +1,17 @@
 # Warto wiedzieć
 
-## Warto wiedzieć - 2016/07/28
+## Warto wiedzieć - 2016/08/04
 
- * https://github.com/felixge/node-memory-leak-tutorial - Jak znaleźć MEMORY LEAK w Node.js?
- * https://rainsoft.io/must-know-details-about-es2016-features/ - Opis nowości w nowej specyfikacji ES2016
  * http://espadrine.github.io/New-In-A-Spec/ - Co ciekawego i nowego w specyfikacjach?
  * https://github.com/mikeric/rivets - Nie chcesz całego Agnular.js do "data-binding"? Skorzystaj z tego narzędzia!
 
- -------
+## Warto wiedzieć - 2016/07/28
+
+ * http://rendfall.pl/dont-close-me-now/ - Masz problem z przypadkowym zamknięciem przeglądarki? Ta aplikacja ochroni Cię przed przypadkowym ALT+F4!
+ * https://github.com/felixge/node-memory-leak-tutorial - Jak znaleźć MEMORY LEAK w Node.js?
+ * https://rainsoft.io/must-know-details-about-es2016-features/ - Opis nowości w nowej specyfikacji ES2016
+
+-------
 
 ## Warto wiedzieć - 2016/07/21
 
