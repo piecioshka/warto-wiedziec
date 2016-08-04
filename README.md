@@ -2,7 +2,7 @@
 
 ## Warto wiedzieć - 2016/08/11
 
- * ...
+ * https://github.com/htmlpreview/htmlpreview.github.com - Jeśli chciałbyś uruchomić projekt bez klonowania repozytorium, to skorzystaj z tego narzędzia.
 
 -------
 
