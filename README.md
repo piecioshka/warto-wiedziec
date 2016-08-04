@@ -1,11 +1,15 @@
 # Warto wiedzieć
 
+## Warto wiedzieć - 2016/08/11
+
+ * ...
+
+-------
+
 ## Warto wiedzieć - 2016/08/04
 
  * http://espadrine.github.io/New-In-A-Spec/ - Co ciekawego i nowego w specyfikacjach?
  * https://github.com/mikeric/rivets - Nie chcesz całego Agnular.js do "data-binding"? Skorzystaj z tego narzędzia!
-
--------
 
 ## Warto wiedzieć - 2016/07/28
 
