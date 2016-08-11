@@ -1,11 +1,15 @@
 # Warto wiedzieć
 
+## Warto wiedzieć - 2016/08/18
+
+ * ...
+
+-------
+
 ## Warto wiedzieć - 2016/08/11
 
  * https://github.com/htmlpreview/htmlpreview.github.com - Jeśli chciałbyś uruchomić projekt bez klonowania repozytorium, to skorzystaj z tego narzędzia.
  * https://dorey.github.io/JavaScript-Equality-Table/ - Zestawienie, jak ma się porównywanie typów danych w JavaScript.
-
--------
 
 ## Warto wiedzieć - 2016/08/04
 
