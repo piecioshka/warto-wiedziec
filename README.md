@@ -2,7 +2,7 @@
 
 ## Warto wiedzieć - 2016/09/08
 
-* ...
+* https://github.com/mobily/markdown-live - Podgląd na żywo pliku tworzonego z użyciem Markdowna
 
 -------
 
