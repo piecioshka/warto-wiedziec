@@ -1,10 +1,14 @@
 # Warto wiedzieć
 
+## Warto wiedzieć - 2016/09/08
+
+* ...
+
+-------
+
 ## Warto wiedzieć - 2016/09/01
 
 * https://gist.github.com/ebidel/1b553d571f924da2da06 - Jeśli brakuje Ci `Object.observe` to możesz skorzystać z polyfilla, który wykorzystuje Proxy (ES2015).
-
--------
 
 ## Warto wiedzieć - 2016/08/25
 
