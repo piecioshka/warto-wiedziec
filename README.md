@@ -5,6 +5,7 @@
 * https://github.com/mobily/markdown-live - Podgląd na żywo pliku tworzonego z użyciem Markdowna
 * https://github.com/simplefocus/FlowType.JS - Nie nie, ten lib nie sprawdza typu zmiennych. Ten dba o zasady typografii.
 * https://github.com/gcanti/tcomb - Już nie musisz pisać assercji na sprawdzanie typów. Wystarczy, że skorzystasz z tego narzędzia, aby usprawnić Twój styl Domain Driven Design.
+* https://github.com/domenic/count-to-6 - Kto jeszcze nie poznał ES6? Zrób kilka ćwiczeń.
 
 -------
 
