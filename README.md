@@ -1,17 +1,25 @@
 # Warto wiedzieć
 
-## Warto wiedzieć - 2016/09/08
+## Warto wiedzieć - 2016/09/22
 
-* https://github.com/mobily/markdown-live - Podgląd na żywo pliku tworzonego z użyciem Markdowna
-* https://github.com/simplefocus/FlowType.JS - Nie nie, ten lib nie sprawdza typu zmiennych. Ten dba o zasady typografii.
-* https://github.com/gcanti/tcomb - Już nie musisz pisać assercji na sprawdzanie typów. Wystarczy, że skorzystasz z tego narzędzia, aby usprawnić Twój styl Domain Driven Design.
-* https://github.com/domenic/count-to-6 - Kto jeszcze nie poznał ES6? Zrób kilka ćwiczeń.
+ * https://github.com/mobily/markdown-live - Podgląd na żywo pliku tworzonego z użyciem Markdowna
+ * https://github.com/simplefocus/FlowType.JS - Nie nie, ten lib nie sprawdza typu zmiennych. Ten dba o zasady typografii.
+ * https://github.com/gcanti/tcomb - Już nie musisz pisać assercji na sprawdzanie typów. Wystarczy, że skorzystasz z tego narzędzia, aby usprawnić Twój styl Domain Driven Design.
+ * https://github.com/domenic/count-to-6 - Kto jeszcze nie poznał ES6? Zrób kilka ćwiczeń.
 
 -------
 
+## Warto wiedzieć - 2016/09/15 (day after WarsawJS #25 - 2 urodziny)
+
+ * ...
+
+## Warto wiedzieć - 2016/09/08
+
+ * ...
+
 ## Warto wiedzieć - 2016/09/01
 
-* https://gist.github.com/ebidel/1b553d571f924da2da06 - Jeśli brakuje Ci `Object.observe` to możesz skorzystać z polyfilla, który wykorzystuje Proxy (ES2015).
+ * https://gist.github.com/ebidel/1b553d571f924da2da06 - Jeśli brakuje Ci `Object.observe` to możesz skorzystać z polyfilla, który wykorzystuje Proxy (ES2015).
 
 ## Warto wiedzieć - 2016/08/25
 
