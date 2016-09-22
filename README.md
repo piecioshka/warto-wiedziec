@@ -1,5 +1,9 @@
 # Warto wiedzieć
 
+## Warto wiedzieć - 2016/09/29
+
+-------
+
 ## Warto wiedzieć - 2016/09/22
 
  * https://github.com/mobily/markdown-live - Podgląd na żywo pliku tworzonego z użyciem Markdowna
@@ -7,8 +11,6 @@
  * https://github.com/gcanti/tcomb - Już nie musisz pisać assercji na sprawdzanie typów. Wystarczy, że skorzystasz z tego narzędzia, aby usprawnić Twój styl Domain Driven Design.
  * https://github.com/domenic/count-to-6 - Kto jeszcze nie poznał ES6? Zrób kilka ćwiczeń.
  * https://coderexample.com/unknown-chrome-dev-tools-tricks-you-should-know/ - DevTools Hacking (Tips & Tricks konsoli w Google Chrome)
-
--------
 
 ## Warto wiedzieć - 2016/09/15 (day after WarsawJS #25 - 2 urodziny)
 
