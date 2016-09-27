@@ -2,6 +2,8 @@
 
 ## Warto wiedzieć - 2016/09/29
 
+ * https://github.com/KanoComputing/routy.js - Bardzo prosta biblioteka do routingu po stronie klienta.
+
 -------
 
 ## Warto wiedzieć - 2016/09/22
