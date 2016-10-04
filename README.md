@@ -2,7 +2,7 @@
 
 ## Warto wiedzieć - 2016/10/06
 
- * ...
+ * https://github.com/M-Ulyanov/myTooltip/ - Prosta biblioteczka do tooltipów (zależnością jest jQuery).
 
 -------
 
