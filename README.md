@@ -2,7 +2,7 @@
 
 ## Warto wiedzieć - 2016/10/13
 
- * ...
+ * http://rogerdudler.github.io/git-guide/index.pl.html - Podstawowy opis polecenień GIT - świetny dla początkujących!
 
 -------
 
