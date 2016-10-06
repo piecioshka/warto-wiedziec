@@ -3,6 +3,7 @@
 ## Warto wiedzieć - 2016/10/06
 
  * https://github.com/M-Ulyanov/myTooltip/ - Prosta biblioteczka do tooltipów (zależnością jest jQuery).
+ * https://github.com/piecioshka/test-flow-vs-typescript - Różnica między Flow (Facebook) a TypeScript (Microsoft)
 
 -------
 
