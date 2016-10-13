@@ -1,10 +1,14 @@
 # Warto wiedzieć
 
+## Warto wiedzieć - 2016/10/20
+
+ * ...
+
+-------
+
 ## Warto wiedzieć - 2016/10/13
 
  * http://rogerdudler.github.io/git-guide/index.pl.html - Podstawowy opis polecenień GIT - świetny dla początkujących!
-
--------
 
 ## Warto wiedzieć - 2016/10/06
 
