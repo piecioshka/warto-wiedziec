@@ -3,6 +3,7 @@
 ## Warto wiedzieć - 2016/10/20
 
  * https://github.com/mozilla/Fira - Jeśli ktoś chce używać fontu "Fira Sans" na swojej stronie (lepsze źródło niż http://fonts.googleapis.com/css?family=Fira+Sans)
+ * http://stateofjs.com/2016/frontend/ - Co słychać ciekawego we Frontendzie?
 
 -------
 
