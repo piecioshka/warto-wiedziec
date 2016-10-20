@@ -1,11 +1,17 @@
 # Warto wiedzieć
 
-## Warto wiedzieć - 2016/10/20
+## Warto wiedzieć - 2016/10/27
 
  * https://github.com/mozilla/Fira - Jeśli ktoś chce używać fontu "Fira Sans" na swojej stronie (lepsze źródło niż http://fonts.googleapis.com/css?family=Fira+Sans)
  * http://stateofjs.com/2016/frontend/ - Co słychać ciekawego we Frontendzie?
 
 -------
+
+## Warto wiedzieć - 2016/10/20
+
+ * https://www.youtube.com/watch?v=2YEE5W8HdKk - Dominik Lubański: Web Components. Are we there yet? [PL] - WarsawJS Meetup #26
+ * https://www.youtube.com/watch?v=fQIvfgrjGSE - Mariusz Nowak: Kind of JavaScript [EN] - WarsawJS Meetup #26
+ * https://www.youtube.com/watch?v=2lhmK60hQGY - Robert Gurgul: Angular 2 quickstart, Angular 2 automated unit testing [PL] - WarsawJS Meetup #26
 
 ## Warto wiedzieć - 2016/10/13
 
