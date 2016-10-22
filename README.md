@@ -1,5 +1,10 @@
 # Warto wiedzieć
 
+## Warto wiedzieć - 2016/11/03
+
+ * https://github.com/observing/pre-commit - Chcesz aby przed stworzeniem rewizji uruchomić testy? Proszę bardzo!
+ * https://github.com/dflourusso/pre-push - A może przed wrzuceniem na serwer chcesz odpalić test coverage? Voila :)
+
 ## Warto wiedzieć - 2016/10/27
 
  * https://github.com/mozilla/Fira - Jeśli ktoś chce używać fontu "Fira Sans" na swojej stronie (lepsze źródło niż http://fonts.googleapis.com/css?family=Fira+Sans)
