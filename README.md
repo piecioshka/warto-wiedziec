@@ -4,6 +4,7 @@
 
  * https://github.com/observing/pre-commit - Chcesz aby przed stworzeniem rewizji uruchomić testy? Proszę bardzo!
  * https://github.com/dflourusso/pre-push - A może przed wrzuceniem na serwer chcesz odpalić test coverage? Voila :)
+ * https://github.com/partageit/markdown-to-slides - Chcesz pisać slajdy w Markdown? Nie ma sprawy. Tym narzędziem zbudujesz wersję HTML.
 
 ## Warto wiedzieć - 2016/10/27
 
