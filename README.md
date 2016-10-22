@@ -5,6 +5,7 @@
  * https://github.com/mozilla/Fira - Jeśli ktoś chce używać fontu "Fira Sans" na swojej stronie (lepsze źródło niż http://fonts.googleapis.com/css?family=Fira+Sans)
  * http://stateofjs.com/2016/frontend/ - Co słychać ciekawego we Frontendzie?
  * https://github.com/arendjr/selectivity - Stworzenie nowego selectbox-a z tą biblioteką będzie przyjemniejsze.
+ * https://github.com/tlackemann/minimize-bundle-js-size - Jak zredukować wielkość naszego pliku bundle.js?
 
 -------
 
