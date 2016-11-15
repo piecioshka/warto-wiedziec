@@ -1,10 +1,16 @@
 # Warto wiedzieć
 
+## Warto wiedzieć - 2016/11/17
+
+ * https://github.com/VictorBjelkholm/trymodule - Chcesz spróbować wykorzystać paczkę z rejestru npm, ale nie chesz specjalnie tworzyć projektu? Spróbuj tego.
+ * https://github.com/zeit/next.js - Nowy framework?
+ * https://github.com/ntkme/github-buttons - Nie oficjalne przyciski z GitHuba.
+
+-------
+
 ## Warto wiedzieć - 2016/11/10
 
  * ...
-
--------
 
 ## Warto wiedzieć - 2016/11/03
 
