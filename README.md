@@ -2,9 +2,9 @@
 
 ## Warto wiedzieć - 2016/11/17
 
- * https://github.com/VictorBjelkholm/trymodule - Chcesz spróbować wykorzystać paczkę z rejestru npm, ale nie chesz specjalnie tworzyć projektu? Spróbuj tego.
- * https://github.com/zeit/next.js - Nowy framework?
- * https://github.com/ntkme/github-buttons - Nie oficjalne przyciski z GitHuba.
+* https://github.com/zeit/next.js - Nowy framework? Raczej zbiór kilku narzędzi (React, Babel, Webpack) w jeden organizam, tak aby tworzenie aplikacji było łatwiejsze.
+* https://github.com/ntkme/github-buttons - Lista przycisków, które "dotyczą" GitHuba.
+* https://github.com/VictorBjelkholm/trymodule - Chcesz spróbować wykorzystać paczkę z rejestru npm, ale nie chesz specjalnie tworzyć projektu? Spróbuj tego.
 
 -------
 
