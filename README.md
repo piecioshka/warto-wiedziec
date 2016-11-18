@@ -2,7 +2,9 @@
 
 ## Warto wiedzieć - 2016/11/24
 
-* ...
+* http://npms.io - Świetna wyszukiwarka paczek w npm.
+* http://npmsearch.com - Prosta i szybka wyszukiwarka paczek w npm.
+* http://npmjs.com - Domyślna wyszukiwarka paczek w npm.
 
 -------
 
