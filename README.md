@@ -1,5 +1,9 @@
 # Warto wiedzieć
 
+## Warto wiedzieć - 2016/12/01
+
+* http://jsben.ch/ - Jeśli interesują Cię benchmarki to te narzędzie jest dla Ciebie!
+
 ## Warto wiedzieć - 2016/11/24
 
 * http://npms.io - Świetna wyszukiwarka paczek w npm.
