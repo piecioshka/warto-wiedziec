@@ -3,6 +3,7 @@
 ## Warto wiedzieć - 2016/12/01
 
 * http://jsben.ch/ - Jeśli interesują Cię benchmarki to te narzędzie jest dla Ciebie!
+* https://github.com/Microsoft/vscode-chrome-debug - Przydatny pligun gdy używasz Visual Studio Code jako edytor.
 
 ## Warto wiedzieć - 2016/11/24
 
