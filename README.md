@@ -1,17 +1,22 @@
 # Warto wiedzieć
 
-## Warto wiedzieć - 2016/12/01
+## Warto wiedzieć - 2016/12/08
 
 * http://jsben.ch/ - Jeśli interesują Cię benchmarki to te narzędzie jest dla Ciebie!
 * https://github.com/Microsoft/vscode-chrome-debug - Przydatny pligun gdy używasz Visual Studio Code jako edytor.
+* http://cssreference.io/ - Dokumentacja wszystkich reguł CSS wraz z przykładami użycia.
 
-## Warto wiedzieć - 2016/11/24
+## Warto wiedzieć - 2016/12/01
 
 * http://npms.io - Świetna wyszukiwarka paczek w npm.
 * http://npmsearch.com - Prosta i szybka wyszukiwarka paczek w npm.
 * http://npmjs.com - Domyślna wyszukiwarka paczek w npm.
 
 -------
+
+## Warto wiedzieć - 2016/11/24
+
+* ...
 
 ## Warto wiedzieć - 2016/11/17
 
