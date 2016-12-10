@@ -3,6 +3,7 @@
 ## Warto wiedzieć - 2016/12/15
 
 * https://github.com/chancejs/chancejs - Generator dowolnego stringu, np. kodu pocztowego, paragrafu, avatara
+* https://nodesecurity.io/opensource - Przebadaj swoją paczkę pod kątem bezpieczeństwa
 
 -------
 
