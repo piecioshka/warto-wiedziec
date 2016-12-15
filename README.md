@@ -1,11 +1,16 @@
 # Warto wiedzieć
 
-## Warto wiedzieć - 2016/12/15
+## Warto wiedzieć - 2016/12/22
 
-* https://github.com/chancejs/chancejs - Generator dowolnego stringu, np. kodu pocztowego, paragrafu, avatara
-* https://nodesecurity.io/opensource - Przebadaj swoją paczkę pod kątem bezpieczeństwa
+* ...
 
 -------
+
+## Warto wiedzieć - 2016/12/15
+
+* https://github.com/zaiste/kulfon - Narzędzia do budowania statycznych stron.
+* https://github.com/chancejs/chancejs - Generator dowolnego stringu, np. kodu pocztowego, paragrafu, avatara.
+* https://nodesecurity.io/opensource - Przebadaj swoją paczkę pod kątem bezpieczeństwa.
 
 ## Warto wiedzieć - 2016/12/08
 
