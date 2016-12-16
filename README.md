@@ -78,7 +78,7 @@
  * https://github.com/domenic/count-to-6 - Kto jeszcze nie poznał ES6? Zrób kilka ćwiczeń.
  * https://coderexample.com/unknown-chrome-dev-tools-tricks-you-should-know/ - DevTools Hacking (Tips & Tricks konsoli w Google Chrome)
 
-## Warto wiedzieć - 2016/09/15 (day after WarsawJS #25 - 2 urodziny)
+## Warto wiedzieć - 2016/09/15 (day after WarsawJS Meetup #25 - 2 urodziny)
 
  * ...
 
@@ -371,8 +371,8 @@ Przez ten rok, przez ten kanał komunikacyjny przeszło około 196 linków do in
 
 ## Warto wiedzieć - 2015/09/17
 
- * http://warsawjs.com/event-13/talk-debugging-javascript-not-only-for-beginners.html - WarsawJS #13: Debugging JavaScript not only for beginners
- * http://warsawjs.com/event-13/talk-my-10-days-with-phaserjs.html - WarsawJS #13: My 10 days with Phaser.js
+ * http://warsawjs.com/event-13/talk-debugging-javascript-not-only-for-beginners.html - WarsawJS Meetup #13: Debugging JavaScript not only for beginners
+ * http://warsawjs.com/event-13/talk-my-10-days-with-phaserjs.html - WarsawJS Meetup #13: My 10 days with Phaser.js
  * http://shields.io/ - Odznaki dla Twojego projektu na GitHub
  * https://www.talater.com/upup/ - Tryb offline Twojej strony? Proszę bardzo!
  * http://www.w3schools.com/charsets/ref_utf_arrows.asp - Wszystkie strzałki które utworzysz korzystając z encji HTML
@@ -615,11 +615,11 @@ Przez ten rok, przez ten kanał komunikacyjny przeszło około 196 linków do in
  * http://invrse.co/phaser-cheatsheet/ - Pomocna lista kluczowych zabiegów podczas tworzenia gry w Phaser.js
  * http://flowtype.org/ - Jeśli komuś brakuje statycznego typowania w JavaScript
 
-## Warto wiedzieć - 2015/01/22 - WarsawJS #5
+## Warto wiedzieć - 2015/01/22 - WarsawJS Meetup #5
 
- * https://www.youtube.com/watch?v=n8O7l8zZ4Mg - WarsawJS #5: Dariusz Biedrzycki: Co potrafi SVG?
- * https://www.youtube.com/watch?v=07fgNHVdF3A - WarsawJS #5: Kamil Kiełbasa: Games development for Smart TV
- * https://www.youtube.com/watch?v=m09RWtt5nd8 - WarsawJS #5: Piotr Klibert - Functional and reactive programming techniques
+ * https://www.youtube.com/watch?v=n8O7l8zZ4Mg - WarsawJS Meetup #5: Dariusz Biedrzycki: Co potrafi SVG?
+ * https://www.youtube.com/watch?v=07fgNHVdF3A - WarsawJS Meetup #5: Kamil Kiełbasa: Games development for Smart TV
+ * https://www.youtube.com/watch?v=m09RWtt5nd8 - WarsawJS Meetup #5: Piotr Klibert - Functional and reactive programming techniques
  * http://piecioshka.pl/blog/2015/01/19/pokemon-js.html - Pokémon.js
  * https://guides.github.com/introduction/flow/ - Jak ekipa z GitHub-a wyobraża sobie workflow w projektach trzymanych w ich systemie.
  * https://github.com/divshot/superstatic - Chcesz szybko postawić WebServer bez instalowania potężnych narzędzi i ich skomplikowane konfiguracji? Superstatic jest dla Ciebie!
@@ -661,7 +661,7 @@ Przez ten rok, przez ten kanał komunikacyjny przeszło około 214 linków do in
  * http://tutorials.comandeer.pl/html5-blog.html - Piękno HTML5
  * http://codepen.io/vaielab/pen/yoKEF - Pegasus w czystym CSS
 
-## Warto wiedzieć - 2014/11/27 - WarsawJS #3
+## Warto wiedzieć - 2014/11/27 - WarsawJS Meetup #3
 
  * http://rootsher.github.io/warsawjs-presentation-template/ - Wzorce projektowe dla aplikacji enterprise w Node.js
  * http://kalbarczyk.github.io/warsawjs-presentation-angularjs-first-steps/ - AngularJS pierwsze kroki
@@ -686,7 +686,7 @@ Przez ten rok, przez ten kanał komunikacyjny przeszło około 214 linków do in
  * http://www.hitbox.tv/video/268942 - AngularJS Review
  * https://github.com/philc/vimium - Dla fanów VIM (do których się zaliczam)
 
-## Warto wiedzieć - 2014/11/03 - WarsawJS #2
+## Warto wiedzieć - 2014/11/03 - WarsawJS Meetup #2
 
  * https://slides.com/tkoomzaaskz/what-if-we-don-t-have-api - Tomasz Ducin - What if we don't have API?
  * https://www.youtube.com/watch?v=QJZtl6vZHvc (wideo)
@@ -729,10 +729,10 @@ Przez ten rok, przez ten kanał komunikacyjny przeszło około 214 linków do in
  * http://codefights.com/ - Gdy ktoś się nudzi ;)
  * http://www.codewars.com/?language=javascript - Gra dla debugging master-ów.
  * http://ctf.uw-team.org/ - Security Game by Unknow. Gra z cyklu: pokonaj webmastera!
- * https://www.youtube.com/watch?v=ONEctd3l3Lk - WarsawJS #1: Adam Babik: The Future Of JavaScript
- * https://www.youtube.com/watch?v=TljZG9wUnXs - WarsawJS #1: Krzysztof Modras: Ember.js for multipage applications
- * https://www.youtube.com/watch?v=J2Z4IRwZ3Jo - WarsawJS #1: Marcin Cimaszewski: Commercial OpenStreetMap implementation
- * https://www.youtube.com/watch?v=2ktpOVFQOe8 - WarsawJS #1: Piotr Kowalski: First app on Samsung Smart TV platform
+ * https://www.youtube.com/watch?v=ONEctd3l3Lk - WarsawJS Meetup #1: Adam Babik: The Future Of JavaScript
+ * https://www.youtube.com/watch?v=TljZG9wUnXs - WarsawJS Meetup #1: Krzysztof Modras: Ember.js for multipage applications
+ * https://www.youtube.com/watch?v=J2Z4IRwZ3Jo - WarsawJS Meetup #1: Marcin Cimaszewski: Commercial OpenStreetMap implementation
+ * https://www.youtube.com/watch?v=2ktpOVFQOe8 - WarsawJS Meetup #1: Piotr Kowalski: First app on Samsung Smart TV platform
 
 ## Warto wiedzieć - 2014/09/25
 
@@ -742,9 +742,9 @@ Przez ten rok, przez ten kanał komunikacyjny przeszło około 214 linków do in
  * https://speakerdeck.com/addyosmani/css-performance-tooling - Wydajność CSS
  * http://simplejs.org/ - Malutka alternatywa BackboneJS - świetna to prostych (szybkich) projektów
 
-## Warto wiedzieć - 2014/09/18 - WarsawJS #1
+## Warto wiedzieć - 2014/09/18 - WarsawJS Meetup #1
 
- * http://chrmod.github.io/talk-warsawjs-intro/ - WarsawJS #1 - Intro
+ * http://chrmod.github.io/talk-warsawjs-intro/ - WarsawJS Meetup #1 - Intro
  * http://blog.jsness.com/the-future-of-javascript/ - The Future Of JavaScript
  * http://chrmod.github.io/talk-emberjs-for-multipage-applications/ - Ember.js for multipage applications
  * http://marcin93.github.io/WarsawJS_201409 - Commercial OpenStreetMap implementation
