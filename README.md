@@ -1,10 +1,26 @@
 # Warto wiedzieć
 
-## Warto wiedzieć - 2016/12/22
+## Warto wiedzieć - 2017/01/19
+
+* https://egghead.io/lessons/nodejs-creating-demo-apis-with-json-server - Świetnie wytłumaczone użycie "json-server".
+
+-------
+
+## Warto wiedzieć - 2017/01/12
 
 * ...
 
--------
+## Warto wiedzieć - 2017/01/05
+
+* ...
+
+## Warto wiedzieć - 2016/12/29
+
+* ...
+
+## Warto wiedzieć - 2016/12/22
+
+* ...
 
 ## Warto wiedzieć - 2016/12/15
 
