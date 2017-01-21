@@ -1,12 +1,16 @@
 # Warto wiedzieć
 
+## Warto wiedzieć - 2017/01/26
+
+* ...
+
+-------
+
 ## Warto wiedzieć - 2017/01/19
 
 * https://egghead.io/lessons/nodejs-creating-demo-apis-with-json-server - Świetnie wytłumaczone użycie "json-server".
 * https://nolanlawson.com/2017/01/09/how-to-write-a-javascript-package-for-both-node-and-the-browser/ - Czy wiesz jak zbudować poprawnie paczkę do npm-a?
 * https://github.com/baseprime/grapnel - Świetna biblioteka do stworzenia routingu po stronie klienta.
-
--------
 
 ## Warto wiedzieć - 2017/01/12
 
