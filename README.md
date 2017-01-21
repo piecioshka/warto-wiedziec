@@ -2,7 +2,7 @@
 
 ## Warto wiedzieć - 2017/01/26
 
-* ...
+* https://github.com/jgraph/draw.io - Narzędzie to tworzenia diagramów
 
 -------
 
