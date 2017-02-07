@@ -1,11 +1,15 @@
 # Warto wiedzieć
 
+## Warto wiedzieć - 2017/02/09
+
+* http://nice2predict.org/ - Jak odwrócić proces minifikacji? Spróbuj tym narzędziem.
+
+-------
+
 ## Warto wiedzieć - 2017/02/02
 
 * https://github.com/jgraph/draw.io - Narzędzie to tworzenia diagramów
 * https://github.com/lukechilds/github-custom-tab-size - Dostosuje sobie wcięcia w plikach na GitHubie
-
--------
 
 ## Warto wiedzieć - 2017/01/26
 
