@@ -1,13 +1,17 @@
 # Warto wiedzieć
 
+## Warto wiedzieć - 2017/02/23
+
+* ...
+
+-------
+
 ## Warto wiedzieć - 2017/02/16
 
 * http://nice2predict.org/ - Jak odwrócić proces minifikacji? Spróbuj tym narzędziem.
 * https://github.com/indexzero/http-server - Bez konfiguracji (tylko CLI) - lepsza wersja nginx-a.
 * https://github.com/tapio/live-server - Auto odświeżanie aplikacji po modyfikacji jej kodu źródłowego.
 * https://github.com/johnpapa/lite-server - Wykorzystanie BrowserSync pracy nad projektem w wielu środowiskach w jednym czasie.
-
--------
 
 ## Warto wiedzieć - 2017/02/09
 
