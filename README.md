@@ -3,6 +3,7 @@
 ## Warto wiedzieć - 2017/03/23
 
 * https://docs.emmet.io/cheat-sheet/ - Szybciej twórz layouty za pomocą Emmeta!
+* https://ngrok.com/ - Opublikuj swojego localhosta. Niech cały świat się o nim dowie.
 
 -------
 
