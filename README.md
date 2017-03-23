@@ -1,12 +1,16 @@
 # Warto wiedzieć
 
+## Warto wiedzieć - 2017/03/30
+
+* ...
+
+-------
+
 ## Warto wiedzieć - 2017/03/23
 
 * https://github.com/kamranahmedse/git-standup - Pokaż na standupie co robiłeś wczoraj :)
 * https://docs.emmet.io/cheat-sheet/ - Szybciej twórz layouty za pomocą Emmeta!
 * https://ngrok.com/ - Opublikuj swojego localhosta. Niech cały świat się o nim dowie.
-
--------
 
 ## Warto wiedzieć - 2017/03/16
 
