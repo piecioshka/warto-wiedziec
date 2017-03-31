@@ -1,10 +1,14 @@
 # Warto wiedzieć
 
+## Warto wiedzieć - 2017/04/06
+
+* https://snyk.io/vuln/ - Sprawdź, czy biblioteka którą używasz posiada błąd bezpieczeństwa.
+
+-------
+
 ## Warto wiedzieć - 2017/03/30
 
 * ...
-
--------
 
 ## Warto wiedzieć - 2017/03/23
 
