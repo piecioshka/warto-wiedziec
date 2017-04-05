@@ -2,6 +2,7 @@
 
 ## Warto wiedzieć - 2017/04/06
 
+* https://www.youtube.com/watch?v=aJIMoLgqU_o - Prelekcja o przyszłości Angulara.
 * https://snyk.io/vuln/ - Sprawdź, czy biblioteka którą używasz posiada błąd bezpieczeństwa.
 
 -------
