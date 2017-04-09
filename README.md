@@ -3,6 +3,7 @@
 ## Warto wiedzieć - 2017/04/20 - Security
 
 * https://typeofweb.com/2016/09/11/innerhtml-furtka-do-xss/ - Testujesz swój kod pod kątem bezpieczeństwa?
+* https://alf.nu/alert1 - Gra polegająca na obejściu zabezpieczeń przed XSS (uwaga wciągające!)
 
 ## Warto wiedzieć - 2017/04/13
 
