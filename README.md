@@ -9,6 +9,7 @@
 
 * https://typeofweb.com/2016/11/25/czytelny-kod/ - Świetny artykuł o problemie "czytelności" kodu.
 * https://github.com/insites/cookieconsent - Uniwersalne rozwiązanie na pokazanie użytkownikowi strony komunikatu z akceptacją wykorzystania ciasteczek.
+* https://alf.nu/ReturnTrue - Kolejne edukacyjne narzędzie, w którym wcielasz się w programistę, który piszę taki kod, który zawsze zwraca true.
 
 -------
 
@@ -944,7 +945,7 @@ Istnieje jeszcze możliwość rejestracji: http://devmeetings.pl/pages/angularwr
  * https://delicious.com/tag/javascript - Hash tag about `javascript`. Bardzo dobra aplikacja w oparciu o Backbone.js
  * http://socket.io/blog/introducing-socket-io-1-0/ - Introducing Socket.IO 1.0
  * http://weplay.io/ - Gra Pokemon (rodem z Gameboy) z wykorzystaniem Socket.IO
- * http://regex.alf.nu/ - Rozgrzewka dla umysłu
+ * https://alf.nu/RegexGolf - Rozgrzewka dla umysłu
 
 ## Warto wiedzieć - 2014/06/05
 
