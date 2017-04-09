@@ -2,7 +2,7 @@
 
 ## Warto wiedzieć - 2017/04/13
 
-* ...
+* https://typeofweb.com/2016/11/25/czytelny-kod/ - Świetny artykuł o problemie "czytelności" kodu.
 
 -------
 
