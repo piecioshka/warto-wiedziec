@@ -1,5 +1,9 @@
 # Warto wiedzieć
 
+## Warto wiedzieć - 2017/04/20 - Security
+
+* https://typeofweb.com/2016/09/11/innerhtml-furtka-do-xss/ - Testujesz swój kod pod kątem bezpieczeństwa?
+
 ## Warto wiedzieć - 2017/04/13
 
 * https://typeofweb.com/2016/11/25/czytelny-kod/ - Świetny artykuł o problemie "czytelności" kodu.
