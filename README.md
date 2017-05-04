@@ -1,10 +1,22 @@
 # Warto wiedzieć
 
+## Warto wiedzieć - 2017/05/11
+
+* https://devcorner.pl/wykryc-ze-uzytkownik-stracil-polaczenie-ze-strona/ - Jak poradzić sobie z trybem offline?
+* https://github.com/yargs/yargs - Analiza parametrów w skryptach Node.js nie była jeszcze tak prosta!
+
+-------
+
+## Warto wiedzieć - 2017/05/04
+
+* http://www.polskifrontend.pl/ - Najciekawsze polskie blogi w jednym miejscu!
+* https://piecioshka.pl/blog/2017/04/15/dziedziczenie-obiektow-w-javascript-bez-uzycia-klas.html - Jak łączyć obiekty w JavaScript?
+* http://poznajprogramowanie.pl/jak-poradzic-sobie-z-pustym-cv/ - Idziesz na pierwszą rozmowę rekrutacyjną. Przeczytaj ten wpis!
+* https://programajster.pl/2017/04/30/dobre-praktyki-css/ - Kilka porad o tym jak pisać CSS
+
 ## Warto wiedzieć - 2017/04/27
 
 * ...
-
--------
 
 ## Warto wiedzieć - 2017/04/20 - Security
 
