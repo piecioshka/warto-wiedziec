@@ -4,6 +4,7 @@
 
 * https://devcorner.pl/wykryc-ze-uzytkownik-stracil-polaczenie-ze-strona/ - Jak poradzić sobie z trybem offline?
 * https://github.com/yargs/yargs - Analiza parametrów w skryptach Node.js nie była jeszcze tak prosta!
+* https://github.com/sunpietro/dragster - Biblioteka dzięki której szybko poradzić sobie z przenoszniem elementów na stronie!
 
 -------
 
