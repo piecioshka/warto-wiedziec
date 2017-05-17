@@ -2,7 +2,7 @@
 
 ## Warto wiedzieć - 2017/05/18
 
-* ...
+* http://poznajprogramowanie.pl/tworzenie-prezentacji-porady/ - Świetny artykuł o tym jak poradzić sobie na scenie.
 
 -------
 
