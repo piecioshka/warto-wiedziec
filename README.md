@@ -1,10 +1,15 @@
 # Warto wiedzieć
 
-## Warto wiedzieć - 2017/05/18
+## Warto wiedzieć - 2017/05/25
 
 * http://poznajprogramowanie.pl/tworzenie-prezentacji-porady/ - Świetny artykuł o tym jak poradzić sobie na scenie.
+* https://github.com/lodash/lodash-webpack-plugin - Redukcja wielkości plików z biblioteki Lodash
 
 -------
+
+## Warto wiedzieć - 2017/05/18
+
+* ...
 
 ## Warto wiedzieć - 2017/05/11
 
