@@ -1,11 +1,16 @@
 # Warto wiedzieć
 
-## Warto wiedzieć - 2017/05/25
+## Warto wiedzieć - 2017/06/01
 
+* https://piecioshka.pl/blog/2017/05/31/angular-jak-zamockowac-dane-do-uslugi-http.html - Angular v4: Mockować danych do usługi HTTP
 * http://poznajprogramowanie.pl/tworzenie-prezentacji-porady/ - Świetny artykuł o tym jak poradzić sobie na scenie.
 * https://github.com/lodash/lodash-webpack-plugin - Redukcja wielkości plików z biblioteki Lodash
 
 -------
+
+## Warto wiedzieć - 2017/05/25
+
+* ...
 
 ## Warto wiedzieć - 2017/05/18
 
