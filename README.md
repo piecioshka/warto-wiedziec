@@ -1,10 +1,14 @@
 # Warto wiedzieć
 
+## Warto wiedzieć - 2017/06/29
+
+* ...
+
+-------
+
 ## Warto wiedzieć - 2017/06/22
 
 * http://simplyaccessible.com/article/accessible-forms-angular/ - Wskazówki jak tworzyć formularze w Angularze zachowując zasady Dostępności
-
--------
 
 ## Warto wiedzieć - 2017/06/15
 
