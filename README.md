@@ -1,10 +1,19 @@
 # Warto wiedzieć
 
-## Warto wiedzieć - 2017/07/06
+## Warto wiedzieć - 2017/07/20
 
+* https://github.com/greg-dev/clean-code-javascript-pl - Zasady mistrzów czystego kodu w kontekście języka JavaScript
 * https://github.com/jgthms/bulma/ - Prosty framework CSS
 
 -------
+
+## Warto wiedzieć - 2017/07/13
+
+* ...
+
+## Warto wiedzieć - 2017/07/06
+
+* ....
 
 ## Warto wiedzieć - 2017/06/29
 
