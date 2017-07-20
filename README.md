@@ -1,12 +1,16 @@
 # Warto wiedzieć
 
+## Warto wiedzieć - 2017/07/27
+
+* ...
+
+-------
+
 ## Warto wiedzieć - 2017/07/20
 
 * http://simplyaccessible.com/article/bulletproof-headings/ - Czy może być więcej niż jeden nagłówke h1 na stronie?
 * https://github.com/greg-dev/clean-code-javascript-pl - Zasady mistrzów czystego kodu w kontekście języka JavaScript
 * https://github.com/jgthms/bulma/ - Prosty framework CSS
-
--------
 
 ## Warto wiedzieć - 2017/07/13
 
