@@ -1,10 +1,14 @@
 # Warto wiedzieć
 
+## Warto wiedzieć - 2017/08/03
+
+* https://goralewicz.com/blog/javascript-seo-experiment/ - Jak wygląda SEO w aplikacjach SPA?
+
+-------
+
 ## Warto wiedzieć - 2017/07/27
 
 * ...
-
--------
 
 ## Warto wiedzieć - 2017/07/20
 
