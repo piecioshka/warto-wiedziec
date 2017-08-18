@@ -5,6 +5,7 @@
 * https://goralewicz.com/blog/javascript-seo-experiment/ - Jak wygląda SEO w aplikacjach SPA?
 * https://hacks.mozilla.org/2017/08/intersection-observer-comes-to-firefox/ - Natywne rozwiązanie problemu, czy element jest widoczny dla użytkownika. Świetna sprawa!
 * https://developers.google.com/web/fundamentals/performance/critical-rendering-path/ - Objaśnienie Critical Rendering Path
+* https://polyfill.io/ - Polyfille na każdą okazję!
 
 -------
 
