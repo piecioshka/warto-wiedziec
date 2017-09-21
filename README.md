@@ -1,10 +1,18 @@
 # Warto wiedzieć
 
-## Warto wiedzieć - 2017/09/14
+## Warto wiedzieć - 2017/09/28
+
+* ...
+
+-------
+
+## Warto wiedzieć - 2017/09/21
 
 * https://github.com/SBoudrias/Inquirer.js - Jak stworzyć UI w terminalu? Wykorzystaj to narzędzie!
 
--------
+## Warto wiedzieć - 2017/09/14
+
+* ...
 
 ## Warto wiedzieć - 2017/09/07
 
