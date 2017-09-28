@@ -1,11 +1,15 @@
 # Warto wiedzieć
 
+## Warto wiedzieć - 2017/10/05
+
+* ...
+
+-------
+
 ## Warto wiedzieć - 2017/09/28
 
 * https://github.com/vladikoff/PWAify - Zbuduj sobie aplikację na podstawie aplikacji PWA
 * https://confs.tech/ - Lista konferencji m.in. JavaScript
-
--------
 
 ## Warto wiedzieć - 2017/09/21
 
