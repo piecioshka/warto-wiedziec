@@ -2,7 +2,7 @@
 
 ## Warto wiedzieć - 2017/10/05
 
-* ...
+* http://www.angular.love/2017/01/15/angular-2-change-detector-mechanizmy-detekcji-oraz-strategia-onpush/ - Przedstawienie mechanizmu detekcji zmian w Angularze
 
 -------
 
