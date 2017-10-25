@@ -1,10 +1,23 @@
 # Warto wiedzieć
 
-## Warto wiedzieć - 2017/10/05
+## Warto wiedzieć - 2017/10/26
 
+* https://github.com/krakenjs/grumbler - Chcesz zbudować paczkę i dodać ją do npm-a? Zajmij się faktycznym kodem biblioteki, a Grumbler pomoże Ci w procesie dystrybucji
 * http://www.angular.love/2017/01/15/angular-2-change-detector-mechanizmy-detekcji-oraz-strategia-onpush/ - Przedstawienie mechanizmu detekcji zmian w Angularze
 
 -------
+
+## Warto wiedzieć - 2017/10/19
+
+* ...
+
+## Warto wiedzieć - 2017/10/12
+
+* ...
+
+## Warto wiedzieć - 2017/10/05
+
+* ...
 
 ## Warto wiedzieć - 2017/09/28
 
