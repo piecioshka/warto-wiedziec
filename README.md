@@ -1,11 +1,20 @@
 # Warto wiedzieć
 
-## Warto wiedzieć - 2017/10/26
+## Warto wiedzieć - 2017/11/09
 
+* ...
+
+-------
+
+## Warto wiedzieć - 2017/11/02
+
+* https://codewithstyle.info/using-rxjs-angular-part-2/ - Angular: Połączenie interakcji z XHRem
 * https://github.com/krakenjs/grumbler - Chcesz zbudować paczkę i dodać ją do npm-a? Zajmij się faktycznym kodem biblioteki, a Grumbler pomoże Ci w procesie dystrybucji
 * http://www.angular.love/2017/01/15/angular-2-change-detector-mechanizmy-detekcji-oraz-strategia-onpush/ - Przedstawienie mechanizmu detekcji zmian w Angularze
 
--------
+## Warto wiedzieć - 2017/10/26
+
+* ...
 
 ## Warto wiedzieć - 2017/10/19
 
