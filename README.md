@@ -1,10 +1,14 @@
 # Warto wiedzieć
 
+## Warto wiedzieć - 2017/11/16
+
+* https://carbon.now.sh - Zaprezentuj swój kod w terminalu!
+
+-------
+
 ## Warto wiedzieć - 2017/11/09
 
 * ...
-
--------
 
 ## Warto wiedzieć - 2017/11/02
 
