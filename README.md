@@ -1,10 +1,15 @@
 # Warto wiedzieć
 
-## Warto wiedzieć - 2017/11/16
+## Warto wiedzieć - 2017/11/25
 
 * https://carbon.now.sh - Zaprezentuj swój kod w terminalu!
+* https://github.com/zeit/serve - Serwuj pliki statyczne. Konkurencja dla `superstatic` firmy Firebase (kiedyś Divshot)
 
 -------
+
+## Warto wiedzieć - 2017/11/16
+
+* ...
 
 ## Warto wiedzieć - 2017/11/09
 
