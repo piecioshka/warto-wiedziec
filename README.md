@@ -1,12 +1,17 @@
 # Warto wiedzieć
 
-## Warto wiedzieć - 2017/11/30
+## Warto wiedzieć - 2017/12/07
 
 * https://carbon.now.sh - Zaprezentuj swój kod w terminalu!
+* http://httpbin.org/ - Usługa pomocna do tworzenia requestów HTTP
 * https://github.com/zeit/serve - Serwuj pliki statyczne. Konkurencja dla `superstatic` firmy Firebase (kiedyś Divshot)
 * http://latentflip.com/loupe/ - Narzędzie do prezentacji asynchroniczności (event loop, callback, te sprawy)
 
 -------
+
+## Warto wiedzieć - 2017/11/30
+
+* ...
 
 ## Warto wiedzieć - 2017/11/23
 
