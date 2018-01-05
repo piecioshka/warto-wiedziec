@@ -1,5 +1,22 @@
 # Warto wiedzieć
 
+## Warto wiedzieć - 2018/01/11
+
+* https://github.com/creationix/nvm - Nie instaluje Node.js globalnie, każdy projekt może mieć swoją wersję.
+* https://github.com/wbyoung/avn - Aktualizuj wersję Node.js po wejściu do katalogu
+
+## Warto wiedzieć - 2018/01/04
+
+* ...
+
+## Warto wiedzieć - 2017/12/28
+
+* ...
+
+## Warto wiedzieć - 2017/12/21
+
+* ...
+
 ## Warto wiedzieć - 2017/12/14
 
 * ...
