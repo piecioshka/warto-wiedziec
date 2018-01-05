@@ -4,7 +4,7 @@
 
 * https://github.com/creationix/nvm - Nie instaluje Node.js globalnie, każdy projekt może mieć swoją wersję.
 * https://github.com/wbyoung/avn - Aktualizuj wersję Node.js po wejściu do katalogu
-* https://github.com/ZitRos/datetime-difference - MEGA prosta biblioteka do prezentacji różnicy dat (nie trzeba załączać całego @moment.js)
+* https://github.com/marcotaubmann/timediff - MEGA prosta biblioteka do prezentacji różnicy dat (nie trzeba załączać całego Moment.js)
 
 ## Warto wiedzieć - 2018/01/04
 
