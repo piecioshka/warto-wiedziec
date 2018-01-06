@@ -3,6 +3,7 @@
 ## Warto wiedzieć - 2018/01/18
 
 * https://github.com/google/blockly/ - Gry dla przyszłych programistów.
+* https://github.com/Alex-Werner/http-server-with-auth - Zabezpiecz swój katalog za pomocą `Basic Auth`
 
 ## Warto wiedzieć - 2018/01/11
 
