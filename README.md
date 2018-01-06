@@ -1,5 +1,9 @@
 # Warto wiedzieć
 
+## Warto wiedzieć - 2018/01/18
+
+* https://github.com/google/blockly/ - Gry dla przyszłych programistów.
+
 ## Warto wiedzieć - 2018/01/11
 
 * https://github.com/creationix/nvm - Nie instaluje Node.js globalnie, każdy projekt może mieć swoją wersję.
