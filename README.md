@@ -3,6 +3,7 @@
 ## Warto wiedzieć - 2018/03/01
 
 * https://github.com/webpro/release-it - Robisz często release swojego projektu? Wykorzystaj to narzędzie!
+* https://github.com/typicode/tlapse - Zobacz progress swojej pracy na screenshotach z prograsu budowania aplikacji!
 
 ---
 
