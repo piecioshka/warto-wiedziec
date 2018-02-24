@@ -2,7 +2,7 @@
 
 ## Warto wiedzieć - 2018/03/01
 
-* ...
+* https://github.com/webpro/release-it - Robisz często release swojego projektu? Wykorzystaj to narzędzie!
 
 ---
 
