@@ -4,6 +4,7 @@
 
 * https://github.com/webpro/release-it - Robisz często release swojego projektu? Wykorzystaj to narzędzie!
 * https://github.com/typicode/tlapse - Zobacz progress swojej pracy na screenshotach z prograsu budowania aplikacji!
+* https://github.com/CookPete/auto-changelog - Nie chce Ci się pisać CHANGELOG.md? Wygeneruj go!
 
 ---
 
