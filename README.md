@@ -1,12 +1,52 @@
 # Warto wiedzieć
 
-## Warto wiedzieć - 2018/03/01
+## Warto wiedzieć - 2018/05/10
+
+* ...
+
+---
+
+## Warto wiedzieć - 2018/05/03 (04)
 
 * https://github.com/webpro/release-it - Robisz często release swojego projektu? Wykorzystaj to narzędzie!
 * https://github.com/typicode/tlapse - Zobacz progress swojej pracy na screenshotach z prograsu budowania aplikacji!
 * https://github.com/CookPete/auto-changelog - Nie chce Ci się pisać CHANGELOG.md? Wygeneruj go!
 
----
+## Warto wiedzieć - 2018/04/26
+
+* ...
+
+## Warto wiedzieć - 2018/04/19
+
+* ...
+
+## Warto wiedzieć - 2018/04/12
+
+* ...
+
+## Warto wiedzieć - 2018/04/05
+
+* ...
+
+## Warto wiedzieć - 2018/03/29
+
+* ...
+
+## Warto wiedzieć - 2018/03/22
+
+* ...
+
+## Warto wiedzieć - 2018/03/15
+
+* ...
+
+## Warto wiedzieć - 2018/03/08
+
+* ...
+
+## Warto wiedzieć - 2018/03/01
+
+* ...
 
 ## Warto wiedzieć - 2018/02/22 (24)
 
