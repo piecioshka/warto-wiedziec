@@ -1,10 +1,14 @@
 # Warto wiedzieć
 
+## Warto wiedzieć - 2018/05/17
+
+* ...
+
+---
+
 ## Warto wiedzieć - 2018/05/10
 
 * https://github-contributions.now.sh/ - Wyświetl historię swojego profilu na GitHub
-
----
 
 ## Warto wiedzieć - 2018/05/03 (04)
 
