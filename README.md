@@ -2,7 +2,8 @@
 
 ## Warto wiedzieć - 2018/05/24
 
-* https://beakerbrowser.com/ - Twórz swoje strony internetowe w oparciu o protokół P2P
+* https://beakerbrowser.com/ - Twórz swoje strony internetowe w oparciu o protokół P2P #electron
+* https://github.com/wulkano/kap - Tworzysz screecasty? Spróbuj tego narzędzia #electron
 
 ---
 
