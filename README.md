@@ -6,6 +6,7 @@
 * https://github.com/wulkano/kap - Tworzysz screecasty? Spróbuj tego narzędzia `#electron`
 * https://github.com/getinsomnia/insomnia - GUI do darmowego REST & GraphQL klienta `#electron`
 * https://simplenote.com/ - Darmowe notatki synchronizowane na wszystkich urządzeniach `#electron`
+* https://www.gitkraken.com/ - Przyjemne GUI dla Git-a. Konkurencja dla *GitHub Desktop* `#electron`
 
 ---
 
