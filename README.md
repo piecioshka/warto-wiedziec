@@ -4,7 +4,8 @@
 
 * https://beakerbrowser.com/ - Twórz swoje strony internetowe w oparciu o protokół P2P `#electron`
 * https://github.com/wulkano/kap - Tworzysz screecasty? Spróbuj tego narzędzia `#electron`
-• https://github.com/getinsomnia/insomnia - GUI do darmowego REST & GraphQL klienta `#electron`
+* https://github.com/getinsomnia/insomnia - GUI do darmowego REST & GraphQL klienta `#electron`
+* https://simplenote.com/ - Darmowe notatki synchronizowane na wszystkich urządzeniach `#electron`
 
 ---
 
