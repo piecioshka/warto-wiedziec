@@ -1,6 +1,6 @@
 # Warto wiedzieć
 
-## Warto wiedzieć - 2018/05/24
+## Warto wiedzieć - 2018/05/31
 
 * https://beakerbrowser.com/ - Twórz swoje strony internetowe w oparciu o protokół P2P `#electron`
 * https://github.com/wulkano/kap - Tworzysz screecasty? Spróbuj tego narzędzia `#electron`
@@ -8,6 +8,9 @@
 * https://simplenote.com/ - Darmowe notatki synchronizowane na wszystkich urządzeniach `#electron`
 * https://www.gitkraken.com/ - Przyjemne GUI dla Git-a. Konkurencja dla *GitHub Desktop* `#electron`
 
+## Warto wiedzieć - 2018/05/24
+
+* https://github.com/hybridsjs/hybrids - Biblioteka do tworzenia Web Componentów autorstwa @smalluban
 ---
 
 ## Warto wiedzieć - 2018/05/17
