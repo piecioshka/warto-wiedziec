@@ -8,10 +8,11 @@
 * https://simplenote.com/ - Darmowe notatki synchronizowane na wszystkich urządzeniach `#electron`
 * https://www.gitkraken.com/ - Przyjemne GUI dla Git-a. Konkurencja dla *GitHub Desktop* `#electron`
 
+---
+
 ## Warto wiedzieć - 2018/05/24
 
 * https://github.com/hybridsjs/hybrids - Biblioteka do tworzenia Web Componentów autorstwa @smalluban
----
 
 ## Warto wiedzieć - 2018/05/17
 
