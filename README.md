@@ -4,6 +4,8 @@
 
 * https://github.com/dotintegral/hexo-tag-autogallery - Plugin do Hexo.js autorstwa Artur Siery (@dotintegral)
 
+---
+
 ## Warto wiedzieć - 2018/05/31
 
 * https://beakerbrowser.com/ - Twórz swoje strony internetowe w oparciu o protokół P2P `#electron`
@@ -11,8 +13,6 @@
 * https://github.com/getinsomnia/insomnia - GUI do darmowego REST & GraphQL klienta `#electron`
 * https://simplenote.com/ - Darmowe notatki synchronizowane na wszystkich urządzeniach `#electron`
 * https://www.gitkraken.com/ - Przyjemne GUI dla Git-a. Konkurencja dla *GitHub Desktop* `#electron`
-
----
 
 ## Warto wiedzieć - 2018/05/24
 
