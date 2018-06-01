@@ -1,5 +1,9 @@
 # Warto wiedzieć
 
+## Warto wiedzieć - 2018/06/07
+
+* https://github.com/dotintegral/hexo-tag-autogallery - Plugin do Hexo.js autorstwa Artur Siery (@dotintegral)
+
 ## Warto wiedzieć - 2018/05/31
 
 * https://beakerbrowser.com/ - Twórz swoje strony internetowe w oparciu o protokół P2P `#electron`
