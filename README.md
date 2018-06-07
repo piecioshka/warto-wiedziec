@@ -1,11 +1,13 @@
 # Warto wiedzieć
 
+## Warto wiedzieć - 2018/06/14
+
+---
+
 ## Warto wiedzieć - 2018/06/07
 
 * https://github.com/dotintegral/hexo-tag-autogallery - Plugin do Hexo.js autorstwa Artur Siery (@dotintegral)
 * https://github.com/HubSpot/odometer - Biblioteka do prezentacji licznika, np. liczby like-ów na fanpage-u.
-
----
 
 ## Warto wiedzieć - 2018/05/31
 
