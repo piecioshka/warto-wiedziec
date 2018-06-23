@@ -5,6 +5,7 @@
 ## Warto wiedzieć - 2018/06/28
 
 * https://github.com/budang/text-tailor - Usuwanie białych znaków z końca linii
+* https://github.com/igorshubovych/markdownlint-cli - Lintowanie plików *.md
 
 ---
 
