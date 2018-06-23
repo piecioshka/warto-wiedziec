@@ -1,4 +1,6 @@
-# Warto wiedzieć
+<p align="center">
+    <img src="./logo.png" alt="Bookmark"/>
+</p>
 
 ## Warto wiedzieć - 2018/06/28
 
@@ -42,7 +44,7 @@
 ## Warto wiedzieć - 2018/05/03 (04)
 
 * https://github.com/webpro/release-it - Robisz często release swojego projektu? Wykorzystaj to narzędzie!
-* https://github.com/typicode/tlapse - Zobacz progress swojej pracy na screenshotach z prograsu budowania aplikacji!
+* https://github.com/typicode/tlapse - Zobacz progress swojej pracy na screenshotach z programu budowania aplikacji!
 * https://github.com/CookPete/auto-changelog - Nie chce Ci się pisać CHANGELOG.md? Wygeneruj go!
 
 ## Warto wiedzieć - 2018/04/26
@@ -375,7 +377,7 @@
 ## Warto wiedzieć - 2016/12/08
 
 * http://jsben.ch/ - Jeśli interesują Cię benchmarki to te narzędzie jest dla Ciebie!
-* https://github.com/Microsoft/vscode-chrome-debug - Przydatny pligun gdy używasz Visual Studio Code jako edytor.
+* https://github.com/Microsoft/vscode-chrome-debug - Przydatny pliginu gdy używasz Visual Studio Code jako edytor.
 * http://cssreference.io/ - Dokumentacja wszystkich reguł CSS wraz z przykładami użycia.
 
 ## Warto wiedzieć - 2016/12/01
@@ -407,7 +409,7 @@
 ## Warto wiedzieć - 2016/10/27
 
 * https://github.com/mozilla/Fira - Jeśli ktoś chce używać fontu "Fira Sans" na swojej stronie (lepsze źródło niż http://fonts.googleapis.com/css?family=Fira+Sans)
-* http://stateofjs.com/2016/frontend/ - Co słychać ciekawego we Frontendzie?
+* http://stateofjs.com/2016/frontend/ - Co słychać ciekawego we Front-endzie?
 * https://github.com/arendjr/selectivity - Stworzenie nowego selectbox-a z tą biblioteką będzie przyjemniejsze.
 * https://github.com/tlackemann/minimize-bundle-js-size - Jak zredukować wielkość naszego pliku bundle.js?
 
@@ -634,7 +636,9 @@
 * http://singerxt.github.io/LightLazyLoader/ - Przyjemna biblioteka do lazy loading obrazków.
 * https://www.microsoft.com/en-us/WindowsForBusiness/End-of-IE-support - Koniec `IE 7,8,9`? - Microsoft przestaje wspierać.
 
-Przez ten rok, przez ten kanał komunikacyjny przeszło około 196 linków do interesujących zagadnień z życia JavaScript.
+--------------------------------------------------------------------------------
+
+> Przez ten rok, przez ten kanał komunikacyjny przeszło około 196 linków do interesujących zagadnień z życia JavaScript.
 
 --------------------------------------------------------------------------------
 
@@ -962,7 +966,7 @@ Przez ten rok, przez ten kanał komunikacyjny przeszło około 196 linków do in
 ## Warto wiedzieć - 2015/02/05
 
 * http://tech.pro/blog/1402/five-patterns-to-help-you-tame-asynchronous-javascript - Kilka świetnych wzorców na asynchroniczność
-* https://vimeo.com/117995294 - Ludzka strona Frontend w Polsce.
+* https://vimeo.com/117995294 - Ludzka strona Front-endu w Polsce.
 * http://int3.github.io/metajs/ - Jak działa Twój kod? Zobacz sam.
 * http://www.smart.biz.pl/techblog/budujmy-szybkie-front-endy - "Budujmy szybkie Front-endy"
 * http://blog.qbaka.com/post/81596992555/getting-maximum-from-javascript-error-tracking - I to się nazywa podejście do analizy błędów w JS
@@ -998,9 +1002,11 @@ Przez ten rok, przez ten kanał komunikacyjny przeszło około 196 linków do in
 * http://documentcloud.github.io/underscore-contrib/ - Pełny stack metod helperów do Underscore.js
 * https://github.com/mgechev/javascript-algorithms - Popularne algorytmy w JavaScript
 
-Przez ten rok, przez ten kanał komunikacyjny przeszło około 214 linków do interesujących zagadnień z życia JavaScript.
+--------------------------------------------------------------------------------
 
-------------------------------------------------------------------------------------------------------------------------
+> Przez ten rok, przez ten kanał komunikacyjny przeszło około 214 linków do interesujących zagadnień z życia JavaScript.
+
+--------------------------------------------------------------------------------
 
 ## Warto wiedzieć - 2014/12/18
 
@@ -1039,7 +1045,7 @@ Przez ten rok, przez ten kanał komunikacyjny przeszło około 214 linków do in
 ## Warto wiedzieć - 2014/11/13
 
 * https://github.com/omf2097/openomf/ - Podłączasz 2 pady do komputera i grasz w przeglądarce, a wszystko to dzięki Gamepad API
-* http://www.binpress.com/tutorial/speeding-up-angular-js-with-simple-optimizations/135 - Kilka wskazówek, jak przyszybszyć aplikacje Angular-owe.
+* http://www.binpress.com/tutorial/speeding-up-angular-js-with-simple-optimizations/135 - Kilka wskazówek, jak "przyszybszyć" aplikacje Angular-owe.
 * https://github.com/peachananr/zepto-onepage-scroll - Zrób swojego landing page w stylu Apple
 
 ## Warto wiedzieć - 2014/11/06
@@ -1191,7 +1197,7 @@ Wyniki lipcowego wrocławskiego DevCamp-u o AngularJS:
 ## Warto wiedzieć - 2014/07/10
 
 * http://wtfhtmlcss.com/ - Zbiór ciekawostek o CSS i HTML
-* https://github.com/dypsilon/frontend-dev-bookmarks - Lista zakładek dla prawdziwego Frontend Developera
+* https://github.com/dypsilon/frontend-dev-bookmarks - Lista zakładek dla prawdziwego Front-end Developera
 * http://5minfork.com/ - Przeglądasz repozytorium bez FORKa! ;-)
 * http://codepen.io/neoberg/pen/istyp - Hardkorowa animacja w CSS? Be my guest!
 * https://www.kickstarter.com/projects/xiki/xiki-the-command-revolution - Czaderski shell.
@@ -1210,7 +1216,7 @@ Wyniki lipcowego wrocławskiego DevCamp-u o AngularJS:
 * https://github.com/backbone-paginator/backbone.paginator - Backbone plugin do kolekcji paginowalnych.
 * http://acodemy.io/ - Kolejny workshop z AngularJS. Ja już się zapisałem, a Ty?
 * https://github.com/Metrological/maf3-sdk - Framework w którym będzie pisana ipla UPC. Im szybciej się zapoznamy tym lepiej!
-* http://apiary.io/ - Komunikacja developerów mobile i frontend w projekcie mobilnym rozwiązana dzięki APIARY.
+* http://apiary.io/ - Komunikacja developerów mobile i front-end w projekcie mobilnym rozwiązana dzięki APIARY.
 
 ## Warto wiedzieć - 2014/06/18
 
@@ -1276,7 +1282,7 @@ Wyniki lipcowego wrocławskiego DevCamp-u o AngularJS:
 
 ## Warto wiedzieć - 2014/03/02
 
-* http://fredsarmento.me/frontend-tools/ - Frontend Tools
+* http://fredsarmento.me/frontend-tools/ - Front-end Tools
 * https://github.com/umdjs/umd - Universal Module Definition
 * https://github.com/gulpjs/gulp - Gulp najlepszy task runner (lepszy niż Grunt)
 
