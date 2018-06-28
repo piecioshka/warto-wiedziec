@@ -2,12 +2,16 @@
     <img src="./logo.png" alt="Bookmark"/>
 </p>
 
+## Warto wiedzieć - 2018/07/05
+
+* ...
+
+---
+
 ## Warto wiedzieć - 2018/06/28
 
 * https://github.com/budang/text-tailor - Usuwanie białych znaków z końca linii
 * https://github.com/igorshubovych/markdownlint-cli - Lintowanie plików *.md
-
----
 
 ## Warto wiedzieć - 2018/06/21
 
