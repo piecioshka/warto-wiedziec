@@ -1,11 +1,15 @@
 # 🌤 Warto wiedzieć
 
+## Warto wiedzieć - 2018/07/13
+
+* ...
+
+--------------------------------------------------------------------------------
+
 ## Warto wiedzieć - 2018/07/05
 
 * https://github.com/olawar/accessibility-7-steps - Jeśli zależy Ci na zwiększeniu "dostępności" swojej strony to zapoznaj się z tymi slajdami
 * https://piecioshka.pl/historia-front-endu/ - Dowiedz się, jak wygląda historia Front-endu (zawiera osobiste wstawki autora)
-
---------------------------------------------------------------------------------
 
 ## Warto wiedzieć - 2018/06/28
 
