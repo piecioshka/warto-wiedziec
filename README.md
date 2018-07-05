@@ -1,12 +1,11 @@
-<p align="center">
-    <img src="./logo.png" alt="Bookmark"/>
-</p>
+# 🌤 Warto wiedzieć
 
 ## Warto wiedzieć - 2018/07/05
 
-* ...
+* https://github.com/olawar/accessibility-7-steps - Jeśli zależy Ci na zwiększeniu "dostępności" swojej strony to zapoznaj się z tymi slajdami
+* https://piecioshka.pl/historia-front-endu/ - Dowiedz się, jak wygląda historia Front-endu (zawiera osobiste wstawki autora)
 
----
+--------------------------------------------------------------------------------
 
 ## Warto wiedzieć - 2018/06/28
 
@@ -762,7 +761,7 @@
 
 ## Warto wiedzieć - 2015/08/27 - AngularJS
 
-* http://piecioshka.pl/presentation-angularjs-q-and-a/ - Prezentacja jednego z organizatorów WarsawJS nt. AngularJS
+* http://piecioshka.github.io/slides-angularjs-q-and-a/ - Prezentacja jednego z organizatorów WarsawJS nt. AngularJS
 * http://helion.pl/angularpierwszekroki.phtml - Kilka filmów nt. możliwości AngularJS
 * http://www.superdesk.org/en/site/news/46/AngularJS-performance-tips.htm - Wskazówki jak przyspieszyć aplikację napisaną w AngularJS
 * http://bahmutov.calepin.co/improving-angular-web-app-performance-example.html - Kolejna porcja optymalizacji
@@ -805,7 +804,7 @@
 * http://github.hubspot.com/shepherd/docs/welcome/ - Samouczek na Twojej stronie? Jakie to proste.
 * https://github.com/karan/Projects - Zacznij naukę JavaScript od zrobienia listy przykładowych zadań.
 * http://basarat.gitbooks.io/typescript/ - Książka (ebook) dotycząca TypeScript autorstwa Basarat Ali Syed
-* http://html5doctor.com/the-figure-figcaption-elements/ - Cała prawda o <figure> oraz <figcaption>
+* http://html5doctor.com/the-figure-figcaption-elements/ - Cała prawda o `<figure>` oraz `<figcaption>`
 
 ## Warto wiedzieć - 2015/07/16
 
@@ -1092,7 +1091,7 @@
 
 ## Warto wiedzieć - 2014/10/09
 
-* https://github.com/piecioshka/perfojs - Prosta konkurencja JSPerf-a.
+* https://github.com/piecioshka/performance-monitor - Prosta konkurencja JSPerf-a.
 * https://github.com/addyosmani/timing.js - Analiza czasów statu aplikacji Webowej
 * https://github.com/angular/angular.js/wiki/Understanding-Scopes - Zrozum AngularJS
 * https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/WeakMap - Nie znasz "Słabych mapek"? Poznaj!
@@ -1122,10 +1121,11 @@
 * http://blog.jsness.com/the-future-of-javascript/ - The Future Of JavaScript
 * http://chrmod.github.io/talk-emberjs-for-multipage-applications/ - Ember.js for multipage applications
 * http://marcin93.github.io/WarsawJS_201409 - Commercial OpenStreetMap implementation
-* http://piecioshka.github.io/warsawjs-presentation-first-app-on-samsung-smart-tv/ - First app on Samsung Smart TV
-* https://github.com/piecioshka/warsawjs-first-app-on-samsung-smart-tv - Aplikacja prosto z prezentacji
-* https://github.com/piecioshka/warsawjs-first-app-on-samsung-smart-tv-with-key-handler - Aplikacja z obsługą pilota
-* https://github.com/piecioshka/warsawjs-first-app-on-samsung-smart-tv-with-player - Aplikacja odtwarzająca strumień live (NASA)
+* https://piecioshka.github.io/slides-first-app-on-samsung-smart-tv/ - First app on Samsung Smart TV
+* https://github.com/piecioshka/slides-first-app-on-samsung-smart-tv - Aplikacja prosto z prezentacji
+* https://github.com/piecioshka/slides-first-app-on-samsung-smart-tv/tree/gh-pages/apps/1-app-display-single-image - Hello World na Smart TV 
+* https://github.com/piecioshka/slides-first-app-on-samsung-smart-tv/tree/gh-pages/apps/2-app-with-key-handler - Aplikacja z obsługą pilota
+* https://github.com/piecioshka/slides-first-app-on-samsung-smart-tv/tree/gh-pages/apps/3-app-with-player - Aplikacja odtwarzająca strumień live (NASA)
 
 ## Warto wiedzieć - 2014/09/11
 
@@ -1226,7 +1226,6 @@ Wyniki lipcowego wrocławskiego DevCamp-u o AngularJS:
 ## Warto wiedzieć - 2014/06/18
 
 * https://github.com/michalbe/jsnews-client - Grupa stricte o JS w Twojej konsoli
-* https://github.com/piecioshka/training-underscore.js - Notatki ze szkolenia o `underscore.js`
 * https://github.com/yyx990803/vue - kolejna konkurencja Backbone.js
 * https://github.com/component/component - konkurencja do npm
 
@@ -1271,7 +1270,7 @@ Wyniki lipcowego wrocławskiego DevCamp-u o AngularJS:
 
 ## Warto wiedzieć - 2014/05/08
 
-* http://blog.piecioshka.pl/2014/04/18/backbone-problem-z-unikalnymi-wlasciwosciami-obiektowymi/ - Backbone: problem z unikalnymi właściwościami obiektowymi
+* http://piecioshka.pl/blog/2014/04/18/backbone-problem-z-unikalnymi-wlasciwosciami-obiektowymi/ - Backbone: problem z unikalnymi właściwościami obiektowymi
 * http://ckeditor.com/tmp/4.4.0/widget-styles.html - CKEditor 4.4.0
 * http://www.html5rocks.com/en/tutorials/internals/howbrowserswork/ - How Browsers Work: Behind the scenes of modern web browsers
 * http://www.100percentjs.com/best-way-debug-node-js/ - How to debug Node.js? What is the best way to debug Node.js?
@@ -1323,17 +1322,17 @@ Wyniki lipcowego wrocławskiego DevCamp-u o AngularJS:
 * http://esprima.org/ - ECMAScript parser
 * http://dhruvaray.github.io/spa-eye/models.html - Backbone Eye
 * http://www.sitespeed.io/ - Analyze your website speed and performance
-* http://blog.piecioshka.pl/2014/01/26/eval-czy-json-parse-porownanie-szybkosci/ - eval() czy JSON.parse()
-* http://blog.piecioshka.pl/2014/01/28/wrug-spotkanie-styczniowe-o-debugowaniu-neo4j-i-ember-js/ - WRUG / Spotkanie styczniowe o debugowaniu, Neo4j i Ember.js
-* http://blog.piecioshka.pl/2014/01/30/more-js-z-czym-to-sie-je/ - more.js – z czym to się je?
+* http://piecioshka.pl/blog/2014/01/26/eval-czy-json-parse-porownanie-szybkosci/ - eval() czy JSON.parse()
+* http://piecioshka.pl/blog/2014/01/28/wrug-spotkanie-styczniowe-o-debugowaniu-neo4j-i-ember-js/ - WRUG / Spotkanie styczniowe o debugowaniu, Neo4j i Ember.js
+* http://piecioshka.pl/blog/2014/01/30/more-js-z-czym-to-sie-je/ - more.js – z czym to się je?
 
 ## Warto wiedzieć - 2014/01/25
 
 * https://github.com/tbranyen/backbone.layoutmanager - Backbone Layout Manager
 * http://alistapart.com/article/writing-testable-javascript - Writing Testable JavaScript
 * http://yepnopejs.com/ - Another script loader
-* http://blog.piecioshka.pl/frontend/javascript/bind-obok-call-i-apply-jako-piekna-natura-jezyka - Opis Function.prototype.bind
-* http://blog.piecioshka.pl/git/git-poczatki-w-najpopularniejszym-systemie-kontroli-wersji - Git - początki
+* http://piecioshka.pl/blog/javascript/bind-obok-call-i-apply-jako-piekna-natura-jezyka - Opis Function.prototype.bind
+* http://piecioshka.pl/blog/git-poczatki-w-najpopularniejszym-systemie-kontroli-wersji - Git - początki
 
 ## Warto wiedzieć - 2014/01/18
 
