@@ -2,7 +2,7 @@
 
 ## Warto wiedzieć - 2018/07/13
 
-* ...
+* https://google-webfonts-helper.herokuapp.com/ - Bądź PRO! Korzystaj z fontu w trybie offline!
 
 --------------------------------------------------------------------------------
 
