@@ -1,10 +1,12 @@
 # 🌤 Warto wiedzieć
 
-## Warto wiedzieć - 2018/07/13
-
-* https://google-webfonts-helper.herokuapp.com/ - Bądź PRO! Korzystaj z fontu w trybie offline!
+## Warto wiedzieć - 2018/07/19
 
 --------------------------------------------------------------------------------
+
+## Warto wiedzieć - 2018/07/12
+
+* https://google-webfonts-helper.herokuapp.com/ - Bądź PRO! Korzystaj z fontu w trybie offline!
 
 ## Warto wiedzieć - 2018/07/05
 
