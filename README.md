@@ -1,12 +1,16 @@
 # 🌤 Warto wiedzieć
 
-## Warto wiedzieć - 2018/07/26
+## Warto wiedzieć - 2018/08/02
 
-* https://github.com/piecioshka/simple-data-table - Wyświetl dane w prostej formie z możliwością edycji (wsparcie zdarzeń)
-* https://github.com/bibixx/drumroll - Co warto usłyszeć po zakończonych testach? Werble!
-* https://github.com/pawelgrzybek/snippet-generator - Korzystasz ze snippetów? Jeśli nie to spróbuj!
+* ...
 
 --------------------------------------------------------------------------------
+
+## Warto wiedzieć - 2018/07/26
+
+* https://github.com/bibixx/drumroll - Co warto usłyszeć po zakończonych testach? Werble!
+* https://github.com/piecioshka/simple-data-table - Wyświetl dane w prostej formie z możliwością edycji
+* https://github.com/pawelgrzybek/snippet-generator - Korzystasz ze snippetów? Jeśli nie to spróbuj!
 
 ## Warto wiedzieć - 2018/07/19
 
