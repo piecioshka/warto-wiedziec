@@ -1,10 +1,30 @@
 # 🌤 Warto wiedzieć
 
-## Warto wiedzieć - 2018/08/02
+## Warto wiedzieć - 2018/09/30
 
 * ...
 
 --------------------------------------------------------------------------------
+
+## Warto wiedzieć - 2018/08/30
+
+* ...
+
+## Warto wiedzieć - 2018/08/23
+
+* ...
+
+## Warto wiedzieć - 2018/08/16
+
+* ...
+
+## Warto wiedzieć - 2018/08/09
+
+* ...
+
+## Warto wiedzieć - 2018/08/02
+
+* ...
 
 ## Warto wiedzieć - 2018/07/26
 
@@ -576,7 +596,7 @@
 
 * https://github.com/sindresorhus/awesome-npm - Lista wskazówek podczas pracy z npm.
 * http://bd90.pl/konsola-git-bash-w-programie-php-storm/ - Konkretny artykuł opisujący sposób konfiguracji terminala w PHPStorm pod systemem Windows?
-* http://piecioshka.pl/blog/2016/04/16/definicje-testow.html - Artykuł opisujący podstawowe 6 typów testów w Inżynierii Oprogramowania.
+* https://piecioshka.pl/blog/2016/04/16/definicje-testow.html - Artykuł opisujący podstawowe 6 typów testów w Inżynierii Oprogramowania.
 
 ## Warto wiedzieć - 2016/04/14
 
@@ -1008,7 +1028,7 @@
 * https://www.youtube.com/watch?v=n8O7l8zZ4Mg - WarsawJS Meetup #5: Dariusz Biedrzycki: Co potrafi SVG?
 * https://www.youtube.com/watch?v=07fgNHVdF3A - WarsawJS Meetup #5: Kamil Kiełbasa: Games development for Smart TV
 * https://www.youtube.com/watch?v=m09RWtt5nd8 - WarsawJS Meetup #5: Piotr Klibert - Functional and reactive programming techniques
-* http://piecioshka.pl/blog/2015/01/19/pokemon-js.html - Pokémon.js
+* https://piecioshka.pl/blog/2015/01/19/narzedzia-swiata-pokemon-picker.html - Pokémon Picker - narzędzia do wylosowania nazwy dla nowego projektu
 * https://guides.github.com/introduction/flow/ - Jak ekipa z GitHub-a wyobraża sobie workflow w projektach trzymanych w ich systemie.
 * https://github.com/divshot/superstatic - Chcesz szybko postawić WebServer bez instalowania potężnych narzędzi i ich skomplikowane konfiguracji? Superstatic jest dla Ciebie!
 * https://github.com/paulirish/memory-stats.js - Monitorowanie pamięci, jest zawsze priorytetem w naszych aplikacjach!
@@ -1288,7 +1308,7 @@ Wyniki lipcowego wrocławskiego DevCamp-u o AngularJS:
 
 ## Warto wiedzieć - 2014/05/08
 
-* http://piecioshka.pl/blog/2014/04/18/backbone-problem-z-unikalnymi-wlasciwosciami-obiektowymi/ - Backbone: problem z unikalnymi właściwościami obiektowymi
+* https://piecioshka.pl/blog/2014/04/18/backbonejs-problem-z-unikalnymi-wlasciwosciami-obiektowymi.html - Backbone: problem z unikalnymi właściwościami obiektowymi
 * http://ckeditor.com/tmp/4.4.0/widget-styles.html - CKEditor 4.4.0
 * http://www.html5rocks.com/en/tutorials/internals/howbrowserswork/ - How Browsers Work: Behind the scenes of modern web browsers
 * http://www.100percentjs.com/best-way-debug-node-js/ - How to debug Node.js? What is the best way to debug Node.js?
@@ -1340,17 +1360,17 @@ Wyniki lipcowego wrocławskiego DevCamp-u o AngularJS:
 * http://esprima.org/ - ECMAScript parser
 * http://dhruvaray.github.io/spa-eye/models.html - Backbone Eye
 * http://www.sitespeed.io/ - Analyze your website speed and performance
-* http://piecioshka.pl/blog/2014/01/26/eval-czy-json-parse-porownanie-szybkosci/ - eval() czy JSON.parse()
-* http://piecioshka.pl/blog/2014/01/28/wrug-spotkanie-styczniowe-o-debugowaniu-neo4j-i-ember-js/ - WRUG / Spotkanie styczniowe o debugowaniu, Neo4j i Ember.js
-* http://piecioshka.pl/blog/2014/01/30/more-js-z-czym-to-sie-je/ - more.js – z czym to się je?
+* https://piecioshka.pl/blog/2014/01/26/eval-czy-json-parse-porownanie-szybkosci.html - eval() czy JSON.parse()
+* https://piecioshka.pl/blog/2014/01/28/wrug-spotkanie-styczniowe-o-debugowaniu-neo4j-i-ember-js.html - WRUG / Spotkanie styczniowe o debugowaniu, Neo4j i Ember.js
+* https://piecioshka.pl/blog/2014/01/30/narzedzia-swiata-more-js.html - more.js – z czym to się je?
 
 ## Warto wiedzieć - 2014/01/25
 
 * https://github.com/tbranyen/backbone.layoutmanager - Backbone Layout Manager
 * http://alistapart.com/article/writing-testable-javascript - Writing Testable JavaScript
 * http://yepnopejs.com/ - Another script loader
-* http://piecioshka.pl/blog/javascript/bind-obok-call-i-apply-jako-piekna-natura-jezyka - Opis Function.prototype.bind
-* http://piecioshka.pl/blog/git-poczatki-w-najpopularniejszym-systemie-kontroli-wersji - Git - początki
+* https://piecioshka.pl/blog/2012/02/09/bind-obok-call-i-apply-jako-piekna-natura-jezyka.html - Opis Function.prototype.bind
+* https://piecioshka.pl/blog/2013/09/14/git-poczatki-w-najpopularniejszym-systemie-kontroli-wersji.html - Git - początki
 
 ## Warto wiedzieć - 2014/01/18
 
