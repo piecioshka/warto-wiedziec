@@ -5,14 +5,14 @@
 * https://github.com/piecioshka/encoding-checker/ - Wyświetl kodowania plików w dowolnym katalogu
 * https://github.com/11ty/eleventy - Kolejny "static site generator"
 
+--------------------------------------------------------------------------------
+
 ## Warto wiedzieć - 2018/11/08
 
 * https://github.com/micnews/lazy-youtube - Ładowanie filmu z YT, dopiero po kliknięciu
 * https://github.com/CodeSeven/toastr - Prezentacja powiadomień w przyjemnej formie
 * https://github.com/JiLiZART/sequence-as-promise - Sekwencyjne wykonywanie promiseów
 * https://github.com/aadsm/jschardet - Jak odczytać "kodowanie pliku"?
-
---------------------------------------------------------------------------------
 
 ## Warto wiedzieć - 2018/11/01
 
