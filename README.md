@@ -4,12 +4,12 @@
 
 * https://github.com/bibixx/warsawjs-fullstack-london-2018-quiz - Sprawdź się! Rozwiąż 2 zadania. Cel to testy świecące na zielono!
 
+--------------------------------------------------------------------------------
+
 ## Warto wiedzieć - 2018/11/15
 
 * https://github.com/piecioshka/encoding-checker/ - Wyświetl kodowania plików w dowolnym katalogu
 * https://github.com/11ty/eleventy - Kolejny "static site generator"
-
---------------------------------------------------------------------------------
 
 ## Warto wiedzieć - 2018/11/08
 
