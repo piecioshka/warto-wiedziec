@@ -3,6 +3,7 @@
 ## Warto wiedzieć - 2018/11/22
 
 * https://github.com/bibixx/warsawjs-fullstack-london-2018-quiz - Sprawdź się! Rozwiąż 2 zadania. Cel to testy świecące na zielono!
+* https://github.com/mszewcz/safe-subscribe - Dbasz o optymalizację w swojej aplikacji Angularowej? Skorzystaj z mocy safeSubscribe-a który przy destroyu komponetu odsubskrybuje wszystkie subskrypcje!
 
 --------------------------------------------------------------------------------
 
