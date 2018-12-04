@@ -1,11 +1,23 @@
 # 🌤 Warto wiedzieć
 
-## Warto wiedzieć - 2018/11/22
+## Warto wiedzieć - 2018/12/13
+
+* ...
+
+--------------------------------------------------------------------------------
+
+## Warto wiedzieć - 2018/12/06
 
 * https://github.com/bibixx/warsawjs-fullstack-london-2018-quiz - Sprawdź się! Rozwiąż 2 zadania. Cel to testy świecące na zielono!
 * https://github.com/mszewcz/safe-subscribe - Dbasz o optymalizację w swojej aplikacji Angularowej? Skorzystaj z mocy safeSubscribe-a który przy destroyu komponetu odsubskrybuje wszystkie subskrypcje!
 
---------------------------------------------------------------------------------
+## Warto wiedzieć - 2018/11/29
+
+* ..
+
+## Warto wiedzieć - 2018/11/22
+
+* ..
 
 ## Warto wiedzieć - 2018/11/15
 
