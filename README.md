@@ -3,6 +3,7 @@
 ## Warto wiedzieć - 2018/12/13
 
 * https://github.com/enquirer/enquirer - Narzędzie do tworzenie interaktywnego API w Node.js
+* https://github.com/MichalZalecki/express-errors-handling - Eleganckie rozwiązanie na obsługę błędów w aplikacji opartej o serwer Express.js
 
 --------------------------------------------------------------------------------
 
