@@ -1,5 +1,9 @@
 # 🌤 Warto wiedzieć
 
+## Warto wiedzieć - 2019/01/03
+
+* https://github.com/motdotla/dotenv - Ładuj konfigurację w locie!
+
 ## Warto wiedzieć - 2018/12/27
 
 * https://github.com/paulmillr/chokidar - Przyjemna biblioteka do komunikacji z File Systemem
