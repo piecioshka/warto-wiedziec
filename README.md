@@ -1,10 +1,17 @@
 # 🌤 Warto wiedzieć
 
+## Warto wiedzieć - 2018/12/27
+
+* https://github.com/paulmillr/chokidar - Przyjemna biblioteka do komunikacji z File Systemem
+    #nodejs
+* https://github.com/local-npm/local-npm - Ściągaj paczki z npm w samolocie
+    #npm #nodejs
+
+--------------------------------------------------------------------------------
+
 ## Warto wiedzieć - 2018/12/20
 
 * ...
-
---------------------------------------------------------------------------------
 
 ## Warto wiedzieć - 2018/12/13
 
