@@ -3,6 +3,7 @@
 ## Warto wiedzieć - 2019/01/03
 
 * https://github.com/motdotla/dotenv - Ładuj konfigurację w locie!
+* https://github.com/xpl/ololog - Wykorzystaj kolory przy tworzeniu logów w przeglądarce
 
 ## Warto wiedzieć - 2018/12/27
 
