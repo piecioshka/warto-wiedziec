@@ -4,6 +4,7 @@
 
 * https://github.com/motdotla/dotenv - Ładuj konfigurację w locie!
 * https://github.com/xpl/ololog - Wykorzystaj kolory przy tworzeniu logów w przeglądarce
+* https://github.com/vuejs/awesome-vue - Masz projekt w Vue.js? Brakuje Ci pluginu? Poszukaj go na tej liście
 
 ## Warto wiedzieć - 2018/12/27
 
