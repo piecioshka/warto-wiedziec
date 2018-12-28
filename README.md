@@ -6,14 +6,14 @@
 * https://github.com/xpl/ololog - Wykorzystaj kolory przy tworzeniu logów w przeglądarce
 * https://github.com/vuejs/awesome-vue - Masz projekt w Vue.js? Brakuje Ci pluginu? Poszukaj go na tej liście
 
+--------------------------------------------------------------------------------
+
 ## Warto wiedzieć - 2018/12/27
 
 * https://github.com/paulmillr/chokidar - Przyjemna biblioteka do komunikacji z File Systemem
     #nodejs
 * https://github.com/local-npm/local-npm - Ściągaj paczki z npm w samolocie
     #npm #nodejs
-
---------------------------------------------------------------------------------
 
 ## Warto wiedzieć - 2018/12/20
 
