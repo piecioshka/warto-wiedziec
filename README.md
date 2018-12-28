@@ -1,10 +1,18 @@
 # 🌤 Warto wiedzieć
 
+## Warto wiedzieć - 2019/01/10
+
+* https://github.com/bokub/chalk-animation - Animacje w CLI? Da się
+    #nodejs #cli
+
 ## Warto wiedzieć - 2019/01/03
 
 * https://github.com/motdotla/dotenv - Ładuj konfigurację w locie!
+    #nodejs
 * https://github.com/xpl/ololog - Wykorzystaj kolory przy tworzeniu logów w przeglądarce
+    #devtools
 * https://github.com/vuejs/awesome-vue - Masz projekt w Vue.js? Brakuje Ci pluginu? Poszukaj go na tej liście
+    #vue
 
 --------------------------------------------------------------------------------
 
