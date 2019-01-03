@@ -7,6 +7,8 @@
 * https://github.com/sindresorhus/ora - Loader w CLI
     #nodejs #cli #spinner #throbber
 
+--------------------------------------------------------------------------------
+
 ## Warto wiedzieć - 2019/01/03
 
 * https://github.com/motdotla/dotenv - Ładuj konfigurację w locie!
@@ -15,8 +17,6 @@
     #devtools
 * https://github.com/vuejs/awesome-vue - Masz projekt w Vue.js? Brakuje Ci pluginu? Poszukaj go na tej liście
     #vue
-
---------------------------------------------------------------------------------
 
 ## Warto wiedzieć - 2018/12/27
 
