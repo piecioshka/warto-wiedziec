@@ -1,13 +1,17 @@
 # 🌤 Warto wiedzieć
 
+## Warto wiedzieć - 2019/01/17
+
+* ...
+
+--------------------------------------------------------------------------------
+
 ## Warto wiedzieć - 2019/01/10
 
 * https://github.com/bokub/chalk-animation - Animacje w CLI? Da się
     #nodejs #cli
 * https://github.com/sindresorhus/ora - Loader w CLI
     #nodejs #cli #spinner #throbber
-
---------------------------------------------------------------------------------
 
 ## Warto wiedzieć - 2019/01/03
 
