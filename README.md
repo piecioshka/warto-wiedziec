@@ -1,10 +1,15 @@
 # 🌤 Warto wiedzieć
 
+## Warto wiedzieć - 2019/01/24
+
+* <https://github.com/lukehaas/runjs> — Brudnopis dla JavaScriptu
+    #desktop #app #macos
+
+--------------------------------------------------------------------------------
+
 ## Warto wiedzieć - 2019/01/17
 
 * ...
-
---------------------------------------------------------------------------------
 
 ## Warto wiedzieć - 2019/01/10
 
