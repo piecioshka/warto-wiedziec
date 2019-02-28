@@ -10,6 +10,8 @@
 
 * <https://github.com/lukehaas/runjs> — Brudnopis dla JavaScriptu
     #desktop #app #macos
+* <https://github.com/alexmacarthur/typeit> - Lubisz efekt maszyny do pisania?
+    #tool #effect
 
 ## Warto wiedzieć - 2019/02/21
 
