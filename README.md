@@ -1,11 +1,35 @@
 # 🌤 Warto wiedzieć
 
-## Warto wiedzieć - 2019/01/24
+## Warto wiedzieć - 2019/03/07
+
+* ...
+
+--------------------------------------------------------------------------------
+
+## Warto wiedzieć - 2019/02/28
 
 * <https://github.com/lukehaas/runjs> — Brudnopis dla JavaScriptu
     #desktop #app #macos
 
---------------------------------------------------------------------------------
+## Warto wiedzieć - 2019/02/21
+
+* ...
+
+## Warto wiedzieć - 2019/02/14
+
+* ...
+
+## Warto wiedzieć - 2019/02/07
+
+* ...
+
+## Warto wiedzieć - 2019/01/31
+
+* ...
+
+## Warto wiedzieć - 2019/01/24
+
+* ...
 
 ## Warto wiedzieć - 2019/01/17
 
@@ -1257,7 +1281,7 @@
 * http://marcin93.github.io/WarsawJS_201409 - Commercial OpenStreetMap implementation
 * https://piecioshka.github.io/slides-first-app-on-samsung-smart-tv/ - First app on Samsung Smart TV
 * https://github.com/piecioshka/slides-first-app-on-samsung-smart-tv - Aplikacja prosto z prezentacji
-* https://github.com/piecioshka/slides-first-app-on-samsung-smart-tv/tree/gh-pages/apps/1-app-display-single-image - Hello World na Smart TV 
+* https://github.com/piecioshka/slides-first-app-on-samsung-smart-tv/tree/gh-pages/apps/1-app-display-single-image - Hello World na Smart TV
 * https://github.com/piecioshka/slides-first-app-on-samsung-smart-tv/tree/gh-pages/apps/2-app-with-key-handler - Aplikacja z obsługą pilota
 * https://github.com/piecioshka/slides-first-app-on-samsung-smart-tv/tree/gh-pages/apps/3-app-with-player - Aplikacja odtwarzająca strumień live (NASA)
 
