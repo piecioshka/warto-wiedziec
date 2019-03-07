@@ -1,10 +1,14 @@
 # 🌤 Warto wiedzieć
 
+## Warto wiedzieć - 2019/03/14
+
+* ...
+
+--------------------------------------------------------------------------------
+
 ## Warto wiedzieć - 2019/03/07
 
 * <https://github.com/sulco/angular-developer-roadmap> - Mapa zagadnień, które musi znać każdy developer pracujący w projekcie z Angularem
-
---------------------------------------------------------------------------------
 
 ## Warto wiedzieć - 2019/02/28
 
