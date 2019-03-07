@@ -2,7 +2,7 @@
 
 ## Warto wiedzieć - 2019/03/07
 
-* ...
+* <https://github.com/sulco/angular-developer-roadmap> - Mapa zagadnień, które musi znać każdy developer pracujący w projekcie z Angularem
 
 --------------------------------------------------------------------------------
 
