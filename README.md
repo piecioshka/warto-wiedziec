@@ -2,7 +2,7 @@
 
 ## Warto wiedzieć - 2019/03/22
 
-* <https://github.com/nexe/nexe> - Stwórz plik binarny ze skryptu!
+* https://github.com/nexe/nexe - Stwórz plik binarny ze skryptu!
     #node.js
 
 --------------------------------------------------------------------------------
@@ -13,13 +13,13 @@
 
 ## Warto wiedzieć - 2019/03/07
 
-* <https://github.com/sulco/angular-developer-roadmap> - Mapa zagadnień, które musi znać każdy developer pracujący w projekcie z Angularem
+* https://github.com/sulco/angular-developer-roadmap - Mapa zagadnień, które musi znać każdy developer pracujący w projekcie z Angularem
 
 ## Warto wiedzieć - 2019/02/28
 
-* <https://github.com/lukehaas/runjs> — Brudnopis dla JavaScriptu
+* https://github.com/lukehaas/runjs — Brudnopis dla JavaScriptu
     #desktop #app #macos
-* <https://github.com/alexmacarthur/typeit> - Lubisz efekt maszyny do pisania?
+* https://github.com/alexmacarthur/typeit - Lubisz efekt maszyny do pisania?
     #tool #effect
 
 ## Warto wiedzieć - 2019/02/21
