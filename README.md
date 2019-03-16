@@ -283,7 +283,7 @@
 
 ## Warto wiedzieć - 2018/01/11
 
-* https://github.com/creationix/nvm - Nie instaluje Node.js globalnie, każdy projekt może mieć swoją wersję.
+* https://github.com/creationix/nvm - Nie instaluj Node.js globalnie, każdy projekt może mieć swoją wersję!
 * https://github.com/wbyoung/avn - Aktualizuj wersję Node.js po wejściu do katalogu
 * https://github.com/banterability/mainspring - MEGA prosta biblioteka do prezentacji różnicy dat (nie trzeba załączać całego Moment.js)
 
@@ -306,7 +306,7 @@
 ## Warto wiedzieć - 2017/12/07 (9)
 
 * https://carbon.now.sh - Zaprezentuj swój kod w terminalu!
-* http://httpbin.org/ - Usługa pomocna do tworzenia requestów HTTP
+* https://httpbin.org/ - Usługa pomocna do tworzenia requestów HTTP
 * https://github.com/zeit/serve - Serwuj pliki statyczne. Konkurencja dla `superstatic` firmy Firebase (kiedyś Divshot)
 * http://latentflip.com/loupe/ - Narzędzie do prezentacji asynchroniczności (event loop, callback, te sprawy)
 
@@ -586,7 +586,7 @@
 * https://github.com/arendjr/selectivity - Stworzenie nowego selectbox-a z tą biblioteką będzie przyjemniejsze.
 * https://github.com/tlackemann/minimize-bundle-js-size - Jak zredukować wielkość naszego pliku bundle.js?
 
-## Warto wiedzieć - 2016/10/20
+## Warto wiedzieć - 2016/10/20 — WarsawJS Meetup
 
 * https://www.youtube.com/watch?v=2YEE5W8HdKk - Dominik Lubański: Web Components. Are we there yet? [PL] - WarsawJS Meetup #26
 * https://www.youtube.com/watch?v=fQIvfgrjGSE - Mariusz Nowak: Kind of JavaScript [EN] - WarsawJS Meetup #26
@@ -594,7 +594,7 @@
 
 ## Warto wiedzieć - 2016/10/13
 
-* http://rogerdudler.github.io/git-guide/index.pl.html - Podstawowy opis polecenień GIT - świetny dla początkujących!
+* http://rogerdudler.github.io/git-guide/index.pl.html - Podstawowy opis poleceń GIT - świetny dla początkujących!
 
 ## Warto wiedzieć - 2016/10/06
 
@@ -609,7 +609,7 @@
 
 * https://github.com/mobily/markdown-live - Podgląd na żywo pliku tworzonego z użyciem Markdowna
 * https://github.com/simplefocus/FlowType.JS - Nie nie, ten lib nie sprawdza typu zmiennych. Ten dba o zasady typografii.
-* https://github.com/gcanti/tcomb - Już nie musisz pisać assercji na sprawdzanie typów. Wystarczy, że skorzystasz z tego narzędzia, aby usprawnić Twój styl Domain Driven Design.
+* https://github.com/gcanti/tcomb - Już nie musisz pisać asercji na sprawdzanie typów. Wystarczy, że skorzystasz z tego narzędzia, aby usprawnić Twój styl Domain Driven Design.
 * https://github.com/domenic/count-to-6 - Kto jeszcze nie poznał ES6? Zrób kilka ćwiczeń.
 * https://coderexample.com/unknown-chrome-dev-tools-tricks-you-should-know/ - DevTools Hacking (Tips & Tricks konsoli w Google Chrome)
 
@@ -641,7 +641,7 @@
 ## Warto wiedzieć - 2016/08/04
 
 * http://espadrine.github.io/New-In-A-Spec/ - Co ciekawego i nowego w specyfikacjach?
-* https://github.com/mikeric/rivets - Nie chcesz całego Agnular.js do "data-binding"? Skorzystaj z tego narzędzia!
+* https://github.com/mikeric/rivets - Nie chcesz całego Angular.js do "data-binding"? Skorzystaj z tego narzędzia!
 
 ## Warto wiedzieć - 2016/07/28
 
@@ -819,7 +819,7 @@
 
 * https://github.com/tj/git-extras/blob/master/Commands.md#git-obliterate - Wrzuciłeś plik z hasłami do repozytorium? Nie martw się!
 * https://mohebifar.github.io/xto6/ - Kompilacja starej składni (ES5) do nowej (ES6) w prosty sposób.
-* http://tagtree.io/es7-async-await - Asynchorniczny kod pisany w sposób synchroniczny. Wszystko dzięki ES7
+* http://tagtree.io/es7-async-await - Asynchroniczny kod pisany w sposób synchroniczny. Wszystko dzięki ES7
 * https://github.com/mikeflynn/egg.js - Easter Eggs na życzenie
 * http://brianium.github.io/watermarkjs/ - Znaki wodne na obrazkach
 * https://github.com/yangmillstheory/chunkify - Odblokuj główny wątek, czyli asynchroniczne pętle
