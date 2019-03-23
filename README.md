@@ -13,6 +13,9 @@
 * https://github.com/conventional-changelog/commitlint - Pisz poprawne commit
     message! Narzędzie będzie sprawdzało, czy robisz to dobrze
     #Nodejs #Git #Commit
+* https://github.com/infinitered/solidarity - Zweryfikuj środowisko! Dbasz o to,
+    aby każdy Twój host miał identyczny software? Wykorzystaj solidarity.
+    #Nodejs
 
 --------------------------------------------------------------------------------
 
