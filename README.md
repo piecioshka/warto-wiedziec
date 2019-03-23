@@ -4,6 +4,8 @@
 
 * https://github.com/nexe/nexe - Stwórz plik binarny ze skryptu!
     #node.js
+* https://github.com/Netflix/pollyjs - Potrzebujesz biblioteki, która zastąpi
+    serwer HTTP podczas testów integracyjnych? Polly.js służy z pomocą!
 
 --------------------------------------------------------------------------------
 
