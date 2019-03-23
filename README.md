@@ -18,6 +18,8 @@
     #Nodejs
 * https://github.com/SamVerschueren/listr - Loader w terminalu. Konkurencja dla Ora.
     #Nodejs #CLI #Spinner #Throbber
+* https://getpino.io/ - Logger w Node.js — możesz go użyć jako middleware w Express.js
+    #Nodejs #Logger
 
 --------------------------------------------------------------------------------
 
