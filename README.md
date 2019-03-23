@@ -16,6 +16,8 @@
 * https://github.com/infinitered/solidarity - Zweryfikuj środowisko! Dbasz o to,
     aby każdy Twój host miał identyczny software? Wykorzystaj solidarity.
     #Nodejs
+* https://github.com/SamVerschueren/listr - Loader w terminalu. Konkurencja dla Ora.
+    #Nodejs #CLI #Spinner #Throbber
 
 --------------------------------------------------------------------------------
 
