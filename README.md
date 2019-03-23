@@ -3,9 +3,13 @@
 ## Warto wiedzieć - 2019/03/22
 
 * https://github.com/nexe/nexe - Stwórz plik binarny ze skryptu!
-    #node.js
+    #Node.js
 * https://github.com/Netflix/pollyjs - Potrzebujesz biblioteki, która zastąpi
     serwer HTTP podczas testów integracyjnych? Polly.js służy z pomocą!
+    #HTTP #Stub #Testing
+* https://github.com/docsifyjs/docsify - Biblioteka do budowania dokumentacji
+    w oparciu o pliki napisane w Markdown.
+    #Documentation #Markdown
 
 --------------------------------------------------------------------------------
 
@@ -20,9 +24,9 @@
 ## Warto wiedzieć - 2019/02/28
 
 * https://github.com/lukehaas/runjs — Brudnopis dla JavaScriptu
-    #desktop #app #macos
+    #Desktop #App #Macos
 * https://github.com/alexmacarthur/typeit - Lubisz efekt maszyny do pisania?
-    #tool #effect
+    #Tool #Effect
 
 ## Warto wiedzieć - 2019/02/21
 
@@ -51,25 +55,25 @@
 ## Warto wiedzieć - 2019/01/10
 
 * https://github.com/bokub/chalk-animation - Animacje w CLI? Da się
-    #nodejs #cli
+    #Nodejs #CLI
 * https://github.com/sindresorhus/ora - Loader w CLI
-    #nodejs #cli #spinner #throbber
+    #Nodejs #CLI #Spinner #Throbber
 
 ## Warto wiedzieć - 2019/01/03
 
 * https://github.com/motdotla/dotenv - Ładuj konfigurację w locie!
-    #nodejs
+    #Nodejs
 * https://github.com/xpl/ololog - Wykorzystaj kolory przy tworzeniu logów w przeglądarce
-    #devtools
+    #Devtools
 * https://github.com/vuejs/awesome-vue - Masz projekt w Vue.js? Brakuje Ci pluginu? Poszukaj go na tej liście
-    #vue
+    #Vue
 
 ## Warto wiedzieć - 2018/12/27
 
 * https://github.com/paulmillr/chokidar - Przyjemna biblioteka do komunikacji z File Systemem
-    #nodejs
+    #Nodejs
 * https://github.com/local-npm/local-npm - Ściągaj paczki z npm w samolocie
-    #npm #nodejs
+    #npm #Nodejs
 
 ## Warto wiedzieć - 2018/12/20
 
