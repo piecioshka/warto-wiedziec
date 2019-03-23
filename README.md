@@ -3,13 +3,16 @@
 ## Warto wiedzieć - 2019/03/22
 
 * https://github.com/nexe/nexe - Stwórz plik binarny ze skryptu!
-    #Node.js
+    #Nodejs
 * https://github.com/Netflix/pollyjs - Potrzebujesz biblioteki, która zastąpi
     serwer HTTP podczas testów integracyjnych? Polly.js służy z pomocą!
     #HTTP #Stub #Testing
 * https://github.com/docsifyjs/docsify - Biblioteka do budowania dokumentacji
     w oparciu o pliki napisane w Markdown.
     #Documentation #Markdown
+* https://github.com/conventional-changelog/commitlint - Pisz poprawne commit
+    message! Narzędzie będzie sprawdzało, czy robisz to dobrze
+    #Nodejs #Git #Commit
 
 --------------------------------------------------------------------------------
 
