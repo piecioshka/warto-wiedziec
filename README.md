@@ -1,6 +1,12 @@
 # 🌤 Warto wiedzieć
 
-## Warto wiedzieć - 2019/03/22
+## Warto wiedzieć - 2019/04/04
+
+* ...
+
+--------------------------------------------------------------------------------
+
+## Warto wiedzieć - 2019/03/29
 
 * https://github.com/nexe/nexe - Stwórz plik binarny ze skryptu!
     #Nodejs
@@ -20,11 +26,13 @@
     #Nodejs #CLI #Spinner #Throbber
 * https://getpino.io/ - Logger w Node.js — możesz go użyć jako middleware w Express.js
     #Nodejs #Logger
-* https://github.com/patorjk/figlet.js - Lubisz napisy zbudowane o różnce znaki
+* https://github.com/patorjk/figlet.js - Lubisz napisy zbudowane o różnice znaki
     zdefiniowane w stylu ASCII art? Proszę bardzo — użyj figlet.js
     #Nodejs #CLI
 
---------------------------------------------------------------------------------
+## Warto wiedzieć - 2019/03/22
+
+* ...
 
 ## Warto wiedzieć - 2019/03/14
 
