@@ -6,6 +6,8 @@
     #Nodejs
 * https://github.com/pastelsky/bundlephobia - Zweryfikuj rozwój zależności projektu
     #Tools #npm
+* https://perf.link/ - Narzędzie to sprawdzania prędkości altnatywnych rozwiązań
+    #Tools #Performance
 
 --------------------------------------------------------------------------------
 
