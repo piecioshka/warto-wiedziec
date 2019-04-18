@@ -2,8 +2,10 @@
 
 ## Warto wiedzieć - 2019/04/18
 
-* ...
+* https://github.com/zkochan/rcfile - Pobierz konfigurację z odpowiedniego pliku
+    #Nodejs
 * https://github.com/pastelsky/bundlephobia - Zweryfikuj rozwój zależności projektu
+    #Tools #npm
 
 --------------------------------------------------------------------------------
 
