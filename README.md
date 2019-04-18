@@ -1,10 +1,19 @@
 # 🌤 Warto wiedzieć
 
-## Warto wiedzieć - 2019/04/04
+## Warto wiedzieć - 2019/04/18
+
+* ...
+* https://github.com/pastelsky/bundlephobia - Zweryfikuj rozwój zależności projektu
+
+--------------------------------------------------------------------------------
+
+## Warto wiedzieć - 2019/04/11
 
 * ...
 
---------------------------------------------------------------------------------
+## Warto wiedzieć - 2019/04/04
+
+* ...
 
 ## Warto wiedzieć - 2019/03/29
 
