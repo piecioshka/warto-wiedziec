@@ -1,15 +1,19 @@
 # 🌤 Warto wiedzieć
 
-## Warto wiedzieć - 2019/04/18
+## Warto wiedzieć - 2019/04/25
+
+* ...
+
+--------------------------------------------------------------------------------
+
+## Warto wiedzieć - 2019/04/18 (19)
 
 * https://github.com/zkochan/rcfile - Pobierz konfigurację z odpowiedniego pliku
     #Nodejs
 * https://github.com/pastelsky/bundlephobia - Zweryfikuj rozwój zależności projektu
     #Tools #npm
-* https://perf.link/ - Narzędzie to sprawdzania prędkości altnatywnych rozwiązań
+* https://perf.link/ - Narzędzie to sprawdzania prędkości alternatywnych rozwiązań
     #Tools #Performance
-
---------------------------------------------------------------------------------
 
 ## Warto wiedzieć - 2019/04/11
 
