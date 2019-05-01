@@ -8,6 +8,9 @@
 * https://github.com/infinitered/apisauce — Ułatwienie komunikacji z jednym API
     (wrapper na bibliotekę Axios) + "ustandaryzowane" błędy HTTP
     #API #HTTP #Helper
+* https://github.com/pahen/madge — Dzięki `madge` zobaczysz w postaci drzewa
+    zależności między plikami
+    #Tools #NodeJS
 
 --------------------------------------------------------------------------------
 
