@@ -1,10 +1,16 @@
 # 🌤 Warto wiedzieć
 
+## Warto wiedzieć - 2019/05/02
+
+* https://github.com/infinitered/apisauce — Ułatwienie komunikacji z jednym API
+    (wrapper na bibliotekę Axios) + "ustandaryzowane" błędy HTTP
+    #API #HTTP #Helper
+
+--------------------------------------------------------------------------------
+
 ## Warto wiedzieć - 2019/04/25
 
 * ...
-
---------------------------------------------------------------------------------
 
 ## Warto wiedzieć - 2019/04/18 (19)
 
