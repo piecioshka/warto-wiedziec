@@ -2,6 +2,9 @@
 
 ## Warto wiedzieć - 2019/05/02
 
+* https://github.com/infinitered/gluegun — Narzędzie do budowy CLI, które udostępnia
+    mechanizm budowy pluginów
+    #NodeJS #CLI #Plugins
 * https://github.com/infinitered/apisauce — Ułatwienie komunikacji z jednym API
     (wrapper na bibliotekę Axios) + "ustandaryzowane" błędy HTTP
     #API #HTTP #Helper
