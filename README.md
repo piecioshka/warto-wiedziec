@@ -1,5 +1,11 @@
 # 🌤 Warto wiedzieć
 
+## Warto wiedzieć - 2019/05/09
+
+* ...
+
+--------------------------------------------------------------------------------
+
 ## Warto wiedzieć - 2019/05/02
 
 * https://github.com/infinitered/gluegun — Narzędzie do budowy CLI, które udostępnia
@@ -11,8 +17,6 @@
 * https://github.com/pahen/madge — Dzięki `madge` zobaczysz w postaci drzewa
     zależności między plikami
     #Tools #NodeJS
-
---------------------------------------------------------------------------------
 
 ## Warto wiedzieć - 2019/04/25
 
