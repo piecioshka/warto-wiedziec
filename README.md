@@ -1,11 +1,15 @@
 # 🌤 Warto wiedzieć
 
+## Warto wiedzieć - 2019/05/30
+
+* ...
+
+--------------------------------------------------------------------------------
+
 ## Warto wiedzieć - 2019/05/23
 
 * https://github.com/es-analysis/plato — Liczenie złożoności cyklomatycznej
     #Tools #Unit #Tests #Legacy #Code #Refactoring
-
---------------------------------------------------------------------------------
 
 ## Warto wiedzieć - 2019/05/16
 
