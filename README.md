@@ -1,10 +1,46 @@
 # 🌤 Warto wiedzieć
 
-## Warto wiedzieć - 2019/05/30
+## Warto wiedzieć - 2019/07/25
+
+* https://www.youtube.com/watch?v=y3cDlxhnq_Y - Functional JavaScript Tutorial - #1: Functions
+* https://www.youtube.com/watch?v=xuEU3wI6vy0 - Functional JavaScript Tutorial - #2: Referential Transparency
+
+--------------------------------------------------------------------------------
+
+## Warto wiedzieć - 2019/07/18
+
+* https://github.com/JoeDog/siege — Lekki benchmark dla web serwerów
+    #Benchmark #Tools
+* https://www.youtube.com/watch?v=k1-CIR-NJeE — API w Hapi i TypeScript
+    by Michał Miszczyszyn & Michał Michalczuk
+
+## Warto wiedzieć - 2019/07/11
 
 * ...
 
---------------------------------------------------------------------------------
+## Warto wiedzieć - 2019/07/04
+
+* ...
+
+## Warto wiedzieć - 2019/06/27
+
+* ...
+
+## Warto wiedzieć - 2019/06/20
+
+* ...
+
+## Warto wiedzieć - 2019/06/13
+
+* ...
+
+## Warto wiedzieć - 2019/06/06
+
+* ...
+
+## Warto wiedzieć - 2019/05/30
+
+* ...
 
 ## Warto wiedzieć - 2019/05/23
 
