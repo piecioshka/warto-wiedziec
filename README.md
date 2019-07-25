@@ -1,11 +1,17 @@
 # 🌤 Warto wiedzieć
 
+## Warto wiedzieć - 2019/08/01
+
+* ...
+
+--------------------------------------------------------------------------------
+
 ## Warto wiedzieć - 2019/07/25
 
 * https://www.youtube.com/watch?v=y3cDlxhnq_Y - Functional JavaScript Tutorial - #1: Functions
-* https://www.youtube.com/watch?v=xuEU3wI6vy0 - Functional JavaScript Tutorial - #2: Referential Transparency
-
---------------------------------------------------------------------------------
+    #JavaScript #Functional
+* https://github.com/felixge/node-memory-leak-tutorial — Tutorial do przećwiczenia poszukiwania Memory Leaks
+    #Node.js
 
 ## Warto wiedzieć - 2019/07/18
 
