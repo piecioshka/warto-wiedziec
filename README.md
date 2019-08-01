@@ -1,10 +1,15 @@
 # 🌤 Warto wiedzieć
 
-## Warto wiedzieć - 2019/08/01
+## Warto wiedzieć - 2019/08/08
 
 * ...
 
 --------------------------------------------------------------------------------
+
+## Warto wiedzieć - 2019/08/01
+
+* https://www.youtube.com/watch?v=Sh6lK57Cuk4 — The Weird History of JavaScript
+* https://www.youtube.com/watch?v=FSs_JYwnAdI — JavaScript: How It's Made
 
 ## Warto wiedzieć - 2019/07/25
 
