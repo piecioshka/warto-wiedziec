@@ -2,7 +2,8 @@
 
 ## Warto wiedzieć - 2019/08/08
 
-* ...
+* https://github.com/microsoft/vscode-extension-samples — Napisz swój plugin do edytora!
+    Przykłady pluginów do #VisualStudioCode
 
 --------------------------------------------------------------------------------
 
