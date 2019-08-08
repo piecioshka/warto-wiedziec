@@ -4,6 +4,8 @@
 
 * https://github.com/microsoft/vscode-extension-samples — Napisz swój plugin do edytora!
     Przykłady pluginów do #VisualStudioCode
+* https://github.com/mlazzarini/vscode-timer-extension — Odmierzaj czas spędzony w kodzie!
+    Świetny plugin do #PairProgramming
 
 --------------------------------------------------------------------------------
 
