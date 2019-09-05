@@ -1,5 +1,9 @@
 # 🌤 Warto wiedzieć
 
+## Warto wiedzieć - 2019/0/09/12
+
+* <https://github.com/lukeed/polka> — Nowy SUPER mały framework!
+
 ## Warto wiedzieć - 2019/0/09/05
 
 * <https://github.com/bpedersen/jest-mock-console> — Nie chcesz logów podczas testów jednostkowych?
