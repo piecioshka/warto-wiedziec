@@ -4,8 +4,9 @@
 
 * <https://github.com/lukeed/polka> — Nowy SUPER mały framework!
 * <https://github.com/sharkdp/fd> — Polecenie "find" bardziej user-friendly
+* <https://github.com/sharkdp/bat> — Polecenie "cat" z kolorowaniem składni!
 
-## Warto wiedzieć - 2019/0/09/05
+## Warto wiedzieć - 2019/09/05
 
 * <https://github.com/bpedersen/jest-mock-console> — Nie chcesz logów podczas testów jednostkowych?
 * <https://github.com/feross/thanks> — Podsumowanie popularności autorów zależności Twojego projektu
