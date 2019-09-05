@@ -4,6 +4,7 @@
 
 * <https://github.com/bpedersen/jest-mock-console> — Nie chcesz logów podczas testów jednostkowych?
 * <https://github.com/feross/thanks> — Podsumowanie popularności autorów zależności Twojego projektu
+* <https://github.com/knicklabs/lorem-ipsum.js> — Generator Lorem Ipsum
 
 --------------------------------------------------------------------------------
 
