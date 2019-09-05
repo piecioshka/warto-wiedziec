@@ -1,10 +1,22 @@
 # 🌤 Warto wiedzieć
 
-## Warto wiedzieć - 2019/08/15
+## Warto wiedzieć - 2019/0/09/05
+
+* <https://github.com/bpedersen/jest-mock-console> — Nie chcesz logów podczas testów jednostkowych?
+
+--------------------------------------------------------------------------------
+
+## Warto wiedzieć - 2019/08/29
 
 * ...
 
---------------------------------------------------------------------------------
+## Warto wiedzieć - 2019/08/22
+
+* ...
+
+## Warto wiedzieć - 2019/08/15
+
+* ...
 
 ## Warto wiedzieć - 2019/08/08
 
