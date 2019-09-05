@@ -3,6 +3,7 @@
 ## Warto wiedzieć - 2019/0/09/12
 
 * <https://github.com/lukeed/polka> — Nowy SUPER mały framework!
+* <https://github.com/sharkdp/fd> — Polecenie "find" bardziej user-friendly
 
 ## Warto wiedzieć - 2019/0/09/05
 
