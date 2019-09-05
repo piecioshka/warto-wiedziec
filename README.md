@@ -6,13 +6,13 @@
 * <https://github.com/sharkdp/fd> — Polecenie "find" bardziej user-friendly
 * <https://github.com/sharkdp/bat> — Polecenie "cat" z kolorowaniem składni!
 
+--------------------------------------------------------------------------------
+
 ## Warto wiedzieć - 2019/09/05
 
 * <https://github.com/bpedersen/jest-mock-console> — Nie chcesz logów podczas testów jednostkowych?
 * <https://github.com/feross/thanks> — Podsumowanie popularności autorów zależności Twojego projektu
 * <https://github.com/knicklabs/lorem-ipsum.js> — Generator Lorem Ipsum
-
---------------------------------------------------------------------------------
 
 ## Warto wiedzieć - 2019/08/29
 
