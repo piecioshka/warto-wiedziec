@@ -3,6 +3,7 @@
 ## Warto wiedzieć - 2019/0/09/05
 
 * <https://github.com/bpedersen/jest-mock-console> — Nie chcesz logów podczas testów jednostkowych?
+* <https://github.com/feross/thanks> — Podsumowanie popularności autorów zależności Twojego projektu
 
 --------------------------------------------------------------------------------
 
