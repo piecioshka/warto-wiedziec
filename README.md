@@ -1,12 +1,20 @@
 # 🌤 Warto wiedzieć
 
-## Warto wiedzieć - 2019/0/09/12
+## Warto wiedzieć - 2019/09/26
+
+* ...
+
+--------------------------------------------------------------------------------
+
+## Warto wiedzieć - 2019/09/19
 
 * <https://github.com/lukeed/polka> — Nowy SUPER mały framework!
 * <https://github.com/sharkdp/fd> — Polecenie "find" bardziej user-friendly
 * <https://github.com/sharkdp/bat> — Polecenie "cat" z kolorowaniem składni!
 
---------------------------------------------------------------------------------
+## Warto wiedzieć - 2019/09/12
+
+* ...
 
 ## Warto wiedzieć - 2019/09/05
 
