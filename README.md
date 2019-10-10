@@ -1,11 +1,15 @@
 # 🌤 Warto wiedzieć
 
+## Warto wiedzieć - 2019/10/17
+
+* ...
+
+--------------------------------------------------------------------------------
+
 ## Warto wiedzieć - 2019/10/10
 
 * <https://github.com/lukaszbasaj/manual-javascript> — Przewodnik dla osób,
     które chcą nauczyć się JavaScript
-
---------------------------------------------------------------------------------
 
 ## Warto wiedzieć - 2019/10/03
 
