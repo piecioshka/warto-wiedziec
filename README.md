@@ -3,6 +3,7 @@
 ## Warto wiedzieć - 2019/10/24
 
 * <https://github.com/wj42ftns/replace-in-files> — Zmiana tekstu w plikach
+* <https://github.com/piecioshka/create-ts-project> — Stwórz szybko projekt w TypeScript
 
 --------------------------------------------------------------------------------
 
