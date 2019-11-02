@@ -1,10 +1,14 @@
 # 🌤 Warto wiedzieć
 
+## Warto wiedzieć - 2019/11/07
+
+* <https://github.com/Rich-Harris/degit> — Pobieranie aktualnego stanu repozytorium (BEZ HISTORII)
+
+--------------------------------------------------------------------------------
+
 ## Warto wiedzieć - 2019/10/31
 
 * ...
-
---------------------------------------------------------------------------------
 
 ## Warto wiedzieć - 2019/10/24
 
