@@ -3,6 +3,10 @@
 ## Warto wiedzieć - 2019/11/07
 
 * <https://github.com/Rich-Harris/degit> — Pobieranie aktualnego stanu repozytorium (BEZ HISTORII)
+* <https://github.com/ds300/patch-package> — Naprawialiście kiedyś paczkę w katalogu node_modules?
+    Niestety, ale zmiany w takich plikach nie przeniosą się do innych developerów
+    z którymi współpracujesz. Korzystając z tej paczki, można modyfikować
+    pliki z node_modules/ i komitować zmiany jako Git patches.
 
 --------------------------------------------------------------------------------
 
