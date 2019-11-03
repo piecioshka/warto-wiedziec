@@ -7,6 +7,8 @@
     Niestety, ale zmiany w takich plikach nie przeniosą się do innych developerów
     z którymi współpracujesz. Korzystając z tej paczki, można modyfikować
     pliki z node_modules/ i komitować zmiany jako Git patches.
+* <https://github.com/camwiegert/typical> - Efekt wpisywania tekstu z klawiatury
+    bardzo podobne do <https://github.com/alexmacarthur/typeit>
 
 --------------------------------------------------------------------------------
 
