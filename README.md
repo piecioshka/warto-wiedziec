@@ -1,5 +1,11 @@
 # 🌤 Warto wiedzieć
 
+## Warto wiedzieć - 2019/11/14
+
+* ...
+
+--------------------------------------------------------------------------------
+
 ## Warto wiedzieć - 2019/11/07
 
 * <https://github.com/Rich-Harris/degit> — Pobieranie aktualnego stanu repozytorium (BEZ HISTORII)
@@ -11,8 +17,6 @@
     bardzo podobne do <https://github.com/alexmacarthur/typeit>
 * <https://github.com/jwilber/roughViz> — Diagramy NARYSOWANE cyfrowo?
     #sketchy
-
---------------------------------------------------------------------------------
 
 ## Warto wiedzieć - 2019/10/31
 
