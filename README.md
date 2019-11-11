@@ -2,7 +2,9 @@
 
 ## Warto wiedzieć - 2019/11/14
 
-* ...
+* <https://github.com/mermaid-js/mermaid> — Generowanie diagramów na podstawie prostej
+    składni — piękne! Zdecydowanie lepsze niż https://github.com/bramp/js-sequence-diagrams
+    (moja wersja: https://piecioshka.github.io/uml-sequence/)
 
 --------------------------------------------------------------------------------
 
