@@ -2,7 +2,7 @@
 
 ## Warto wiedzieć - 2019/11/21
 
-* ...
+* <https://github.com/IonicaBizau/made-in-poland> — paczki npm-owe na naszym podwórku!
 
 --------------------------------------------------------------------------------
 
