@@ -1,10 +1,42 @@
 # 🌤 Warto wiedzieć
 
+## Warto wiedzieć - 2020/01/16
+
+* <https://github.com/torokmark/design_patterns_in_typescript> — Wzorce projektowe w oparciu o TypeScripta
+
+--------------------------------------------------------------------------------
+
+## Warto wiedzieć - 2020/01/09
+
+* ...
+
+## Warto wiedzieć - 2020/01/02
+
+* ...
+
+## Warto wiedzieć - 2019/12/26
+
+* ...
+
+## Warto wiedzieć - 2019/12/19
+
+* ...
+
+## Warto wiedzieć - 2019/12/12
+
+* ...
+
+## Warto wiedzieć - 2019/12/05
+
+* ...
+
+## Warto wiedzieć - 2019/11/28
+
+* ...
+
 ## Warto wiedzieć - 2019/11/21
 
 * <https://github.com/IonicaBizau/made-in-poland> — paczki npm-owe na naszym podwórku!
-
---------------------------------------------------------------------------------
 
 ## Warto wiedzieć - 2019/11/14
 
