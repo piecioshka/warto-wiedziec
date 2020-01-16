@@ -1,10 +1,14 @@
 # 🌤 Warto wiedzieć
 
+## Warto wiedzieć - 2020/01/23
+
+* ...
+
+--------------------------------------------------------------------------------
+
 ## Warto wiedzieć - 2020/01/16
 
 * <https://github.com/torokmark/design_patterns_in_typescript> — Wzorce projektowe w oparciu o TypeScripta
-
---------------------------------------------------------------------------------
 
 ## Warto wiedzieć - 2020/01/09
 
