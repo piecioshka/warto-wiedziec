@@ -2,7 +2,7 @@
 
 ## Warto wiedzieć - 2020/01/23
 
-* ...
+* https://github.com/storybookjs/storybook — Tworzysz reużywalne komponenty, które mają różne opcje użycia? Wykorzystać Storybooka, aby pokazać jak komopnent wygląda w różnych środowiskach.
 
 --------------------------------------------------------------------------------
 
