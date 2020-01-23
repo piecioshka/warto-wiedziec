@@ -2,13 +2,13 @@
 
 ## Warto wiedzieć - 2020/01/23
 
-* ...
+* https://github.com/storybookjs/storybook — Tworzysz reużywalne komponenty, które mają różne opcje użycia? Wykorzystać Storybooka, aby pokazać jak komopnent wygląda w różnych środowiskach.
 
 --------------------------------------------------------------------------------
 
 ## Warto wiedzieć - 2020/01/16
 
-* <https://github.com/torokmark/design_patterns_in_typescript> — Wzorce projektowe w oparciu o TypeScripta
+* https://github.com/torokmark/design_patterns_in_typescript — Wzorce projektowe w oparciu o TypeScripta
 
 ## Warto wiedzieć - 2020/01/09
 
@@ -40,24 +40,24 @@
 
 ## Warto wiedzieć - 2019/11/21
 
-* <https://github.com/IonicaBizau/made-in-poland> — paczki npm-owe na naszym podwórku!
+* https://github.com/IonicaBizau/made-in-poland — paczki npm-owe na naszym podwórku!
 
 ## Warto wiedzieć - 2019/11/14
 
-* <https://github.com/mermaid-js/mermaid> — Generowanie diagramów na podstawie prostej
+* https://github.com/mermaid-js/mermaid — Generowanie diagramów na podstawie prostej
     składni — piękne! Zdecydowanie lepsze niż https://github.com/bramp/js-sequence-diagrams
     (moja wersja: https://piecioshka.github.io/uml-sequence/)
 
 ## Warto wiedzieć - 2019/11/07
 
-* <https://github.com/Rich-Harris/degit> — Pobieranie aktualnego stanu repozytorium (BEZ HISTORII)
-* <https://github.com/ds300/patch-package> — Naprawialiście kiedyś paczkę w katalogu node_modules?
+* https://github.com/Rich-Harris/degit — Pobieranie aktualnego stanu repozytorium (BEZ HISTORII)
+* https://github.com/ds300/patch-package — Naprawialiście kiedyś paczkę w katalogu node_modules?
     Niestety, ale zmiany w takich plikach nie przeniosą się do innych developerów
     z którymi współpracujesz. Korzystając z tej paczki, można modyfikować
     pliki z node_modules/ i komitować zmiany jako Git patches.
-* <https://github.com/camwiegert/typical> - Efekt wpisywania tekstu z klawiatury
-    bardzo podobne do <https://github.com/alexmacarthur/typeit>
-* <https://github.com/jwilber/roughViz> — Diagramy NARYSOWANE cyfrowo?
+* https://github.com/camwiegert/typical - Efekt wpisywania tekstu z klawiatury
+    bardzo podobne do https://github.com/alexmacarthur/typeit
+* https://github.com/jwilber/roughViz — Diagramy NARYSOWANE cyfrowo?
     #sketchy
 
 ## Warto wiedzieć - 2019/10/31
@@ -66,8 +66,8 @@
 
 ## Warto wiedzieć - 2019/10/24
 
-* <https://github.com/wj42ftns/replace-in-files> — Zmiana tekstu w plikach
-* <https://github.com/piecioshka/create-ts-project> — Stwórz szybko projekt w TypeScript
+* https://github.com/wj42ftns/replace-in-files — Zmiana tekstu w plikach
+* https://github.com/piecioshka/create-ts-project — Stwórz szybko projekt w TypeScript
 
 ## Warto wiedzieć - 2019/10/17
 
@@ -75,7 +75,7 @@
 
 ## Warto wiedzieć - 2019/10/10
 
-* <https://github.com/lukaszbasaj/manual-javascript> — Przewodnik dla osób,
+* https://github.com/lukaszbasaj/manual-javascript — Przewodnik dla osób,
     które chcą nauczyć się JavaScript
 
 ## Warto wiedzieć - 2019/10/03
@@ -88,9 +88,9 @@
 
 ## Warto wiedzieć - 2019/09/19
 
-* <https://github.com/lukeed/polka> — Nowy SUPER mały framework!
-* <https://github.com/sharkdp/fd> — Polecenie "find" bardziej user-friendly
-* <https://github.com/sharkdp/bat> — Polecenie "cat" z kolorowaniem składni!
+* https://github.com/lukeed/polka — Nowy SUPER mały framework!
+* https://github.com/sharkdp/fd — Polecenie "find" bardziej user-friendly
+* https://github.com/sharkdp/bat — Polecenie "cat" z kolorowaniem składni!
 
 ## Warto wiedzieć - 2019/09/12
 
@@ -98,9 +98,9 @@
 
 ## Warto wiedzieć - 2019/09/05
 
-* <https://github.com/bpedersen/jest-mock-console> — Nie chcesz logów podczas testów jednostkowych?
-* <https://github.com/feross/thanks> — Podsumowanie popularności autorów zależności Twojego projektu
-* <https://github.com/knicklabs/lorem-ipsum.js> — Generator Lorem Ipsum
+* https://github.com/bpedersen/jest-mock-console — Nie chcesz logów podczas testów jednostkowych?
+* https://github.com/feross/thanks — Podsumowanie popularności autorów zależności Twojego projektu
+* https://github.com/knicklabs/lorem-ipsum.js — Generator Lorem Ipsum
 
 ## Warto wiedzieć - 2019/08/29
 
