@@ -4,6 +4,8 @@
 
 * https://github.com/totherik/jase — Piszesz skrypt w bashu bazujący na pliku JSON?
     Jase pomoże Ci odczytać dowolny klucz, a także usunie go jeśli będzie trzeba!
+* https://github.com/ctrlplusb/easy-peasy — Dodanie Reduxa do projektu nie było
+    nigdzie jeszcze tak proste!
 
 --------------------------------------------------------------------------------
 
