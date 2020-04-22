@@ -6,6 +6,9 @@
     Jase pomoże Ci odczytać dowolny klucz, a także usunie go jeśli będzie trzeba!
 * https://github.com/ctrlplusb/easy-peasy — Dodanie Reduxa do projektu nie było
     nigdzie jeszcze tak proste!
+* https://github.com/polonel/SnackBar — Toast, Snackbar... jakkolwiek, najważniejsze,
+    że łatwo i przyjemnie poinformujesz użytkownika prezentując mu nieinwazyjny
+    komunikat w dowolnym brzegu aplikacji webowej.
 
 --------------------------------------------------------------------------------
 
