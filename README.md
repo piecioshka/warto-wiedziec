@@ -2,7 +2,8 @@
 
 ## Warto wiedzieć - 2020/04/23
 
-* ...
+* https://github.com/totherik/jase — Piszesz skrypt w bashu bazujący na pliku JSON?
+    Jase pomoże Ci odczytać dowolny klucz, a także usunie go jeśli będzie trzeba!
 
 --------------------------------------------------------------------------------
 
