@@ -1,14 +1,66 @@
 # 🌤 Warto wiedzieć
 
-## Warto wiedzieć - 2020/01/23
+## Warto wiedzieć - 2020/04/23
 
-* https://github.com/storybookjs/storybook — Tworzysz reużywalne komponenty, które mają różne opcje użycia? Wykorzystać Storybooka, aby pokazać jak komopnent wygląda w różnych środowiskach.
+* ...
 
 --------------------------------------------------------------------------------
 
+## Warto wiedzieć - 2020/04/16
+
+* ...
+
+## Warto wiedzieć - 2020/04/09
+
+* ...
+
+## Warto wiedzieć - 2020/04/02
+
+* ...
+
+## Warto wiedzieć - 2020/03/26
+
+* ...
+
+## Warto wiedzieć - 2020/03/19
+
+* ...
+
+## Warto wiedzieć - 2020/03/12
+
+* ...
+
+## Warto wiedzieć - 2020/03/05
+
+* ...
+
+## Warto wiedzieć - 2020/02/27
+
+* ...
+
+## Warto wiedzieć - 2020/02/20
+
+* ...
+
+## Warto wiedzieć - 2020/02/13
+
+* ...
+
+## Warto wiedzieć - 2020/02/06
+
+* ...
+
+## Warto wiedzieć - 2020/01/30
+
+* ...
+
+## Warto wiedzieć - 2020/01/23
+
+* https://github.com/storybookjs/storybook — Tworzysz reużywalne komponenty, które mają różne opcje użycia? Wykorzystać Storybooka, aby pokazać jak komponent wygląda w różnych środowiskach.
+
 ## Warto wiedzieć - 2020/01/16
 
-* <https://github.com/torokmark/design_patterns_in_typescript> — Wzorce projektowe w oparciu o TypeScripta
+* https://github.com/torokmark/design_patterns_in_typescript — Wzorce projektowe w oparciu o TypeScript
 
 ## Warto wiedzieć - 2020/01/09
 
@@ -40,24 +92,24 @@
 
 ## Warto wiedzieć - 2019/11/21
 
-* <https://github.com/IonicaBizau/made-in-poland> — paczki npm-owe na naszym podwórku!
+* https://github.com/IonicaBizau/made-in-poland — paczki npm-owe na naszym podwórku!
 
 ## Warto wiedzieć - 2019/11/14
 
-* <https://github.com/mermaid-js/mermaid> — Generowanie diagramów na podstawie prostej
+* https://github.com/mermaid-js/mermaid — Generowanie diagramów na podstawie prostej
     składni — piękne! Zdecydowanie lepsze niż https://github.com/bramp/js-sequence-diagrams
     (moja wersja: https://piecioshka.github.io/uml-sequence/)
 
 ## Warto wiedzieć - 2019/11/07
 
-* <https://github.com/Rich-Harris/degit> — Pobieranie aktualnego stanu repozytorium (BEZ HISTORII)
-* <https://github.com/ds300/patch-package> — Naprawialiście kiedyś paczkę w katalogu node_modules?
+* https://github.com/Rich-Harris/degit — Pobieranie aktualnego stanu repozytorium (BEZ HISTORII)
+* https://github.com/ds300/patch-package — Naprawialiście kiedyś paczkę w katalogu node_modules?
     Niestety, ale zmiany w takich plikach nie przeniosą się do innych developerów
     z którymi współpracujesz. Korzystając z tej paczki, można modyfikować
     pliki z node_modules/ i komitować zmiany jako Git patches.
-* <https://github.com/camwiegert/typical> - Efekt wpisywania tekstu z klawiatury
-    bardzo podobne do <https://github.com/alexmacarthur/typeit>
-* <https://github.com/jwilber/roughViz> — Diagramy NARYSOWANE cyfrowo?
+* https://github.com/camwiegert/typical - Efekt wpisywania tekstu z klawiatury
+    bardzo podobne do https://github.com/alexmacarthur/typeit
+* https://github.com/jwilber/roughViz — Diagramy NARYSOWANE cyfrowo?
     #sketchy
 
 ## Warto wiedzieć - 2019/10/31
@@ -66,8 +118,8 @@
 
 ## Warto wiedzieć - 2019/10/24
 
-* <https://github.com/wj42ftns/replace-in-files> — Zmiana tekstu w plikach
-* <https://github.com/piecioshka/create-ts-project> — Stwórz szybko projekt w TypeScript
+* https://github.com/wj42ftns/replace-in-files — Zmiana tekstu w plikach
+* https://github.com/piecioshka/create-ts-project — Stwórz szybko projekt w TypeScript
 
 ## Warto wiedzieć - 2019/10/17
 
@@ -75,7 +127,7 @@
 
 ## Warto wiedzieć - 2019/10/10
 
-* <https://github.com/lukaszbasaj/manual-javascript> — Przewodnik dla osób,
+* https://github.com/lukaszbasaj/manual-javascript — Przewodnik dla osób,
     które chcą nauczyć się JavaScript
 
 ## Warto wiedzieć - 2019/10/03
@@ -88,9 +140,9 @@
 
 ## Warto wiedzieć - 2019/09/19
 
-* <https://github.com/lukeed/polka> — Nowy SUPER mały framework!
-* <https://github.com/sharkdp/fd> — Polecenie "find" bardziej user-friendly
-* <https://github.com/sharkdp/bat> — Polecenie "cat" z kolorowaniem składni!
+* https://github.com/lukeed/polka — Nowy SUPER mały framework!
+* https://github.com/sharkdp/fd — Polecenie "find" bardziej user-friendly
+* https://github.com/sharkdp/bat — Polecenie "cat" z kolorowaniem składni!
 
 ## Warto wiedzieć - 2019/09/12
 
@@ -98,9 +150,9 @@
 
 ## Warto wiedzieć - 2019/09/05
 
-* <https://github.com/bpedersen/jest-mock-console> — Nie chcesz logów podczas testów jednostkowych?
-* <https://github.com/feross/thanks> — Podsumowanie popularności autorów zależności Twojego projektu
-* <https://github.com/knicklabs/lorem-ipsum.js> — Generator Lorem Ipsum
+* https://github.com/bpedersen/jest-mock-console — Nie chcesz logów podczas testów jednostkowych?
+* https://github.com/feross/thanks — Podsumowanie popularności autorów zależności Twojego projektu
+* https://github.com/knicklabs/lorem-ipsum.js — Generator Lorem Ipsum
 
 ## Warto wiedzieć - 2019/08/29
 
@@ -316,7 +368,7 @@
 ## Warto wiedzieć - 2018/12/06
 
 * https://github.com/bibixx/warsawjs-fullstack-london-2018-quiz - Sprawdź się! Rozwiąż 2 zadania. Cel to testy świecące na zielono!
-* https://github.com/mszewcz/safe-subscribe - Dbasz o optymalizację w swojej aplikacji Angularowej? Skorzystaj z mocy safeSubscribe-a który przy destroyu komponetu odsubskrybuje wszystkie subskrypcje!
+* https://github.com/mszewcz/safe-subscribe - Dbasz o optymalizację w swojej aplikacji Angularowej? Skorzystaj z mocy safeSubscribe-a który przy destroyu komponentu odsubskrybuje wszystkie subskrypcje!
 
 ## Warto wiedzieć - 2018/11/29
 
@@ -630,7 +682,7 @@
 
 ## Warto wiedzieć - 2017/07/20
 
-* http://simplyaccessible.com/article/bulletproof-headings/ - Czy może być więcej niż jeden nagłówke h1 na stronie?
+* http://simplyaccessible.com/article/bulletproof-headings/ - Czy może być więcej niż jeden nagłówek h1 na stronie?
 * https://github.com/greg-dev/clean-code-javascript-pl - Zasady mistrzów czystego kodu w kontekście języka JavaScript
 * https://github.com/jgthms/bulma/ - Prosty framework CSS
 
@@ -785,7 +837,7 @@
 ## Warto wiedzieć - 2016/12/08
 
 * http://jsben.ch/ - Jeśli interesują Cię benchmarki to te narzędzie jest dla Ciebie!
-* https://github.com/Microsoft/vscode-chrome-debug - Przydatny pliginu gdy używasz Visual Studio Code jako edytor.
+* https://github.com/Microsoft/vscode-chrome-debug - Przydatny plugin, gdy używasz Visual Studio Code jako edytor.
 * http://cssreference.io/ - Dokumentacja wszystkich reguł CSS wraz z przykładami użycia.
 
 ## Warto wiedzieć - 2016/12/01
@@ -894,7 +946,7 @@
 ## Warto wiedzieć - 2016/07/14
 
 * https://github.com/paypal/seifnode - Nowy projekt Douglasa Crockforda: The Seif Project
-* https://www.smashingmagazine.com/2015/02/avoid-javascript-mistakes-with-static-code-analyzer/ - Artkuł o linterach.
+* https://www.smashingmagazine.com/2015/02/avoid-javascript-mistakes-with-static-code-analyzer/ - Artykuł o linterach.
 * https://medium.com/@yamalight/using-postal-js-as-flux-dispatcher-in-your-modular-react-application-with-turris-js-1355e9feacc9 - Możliwości biblioteki Postal.js
 
 ## Warto wiedzieć - 2016/07/07
@@ -948,7 +1000,7 @@
 
 ## Warto wiedzieć - 2016/05/05
 
-* http://cezarywalenciuk.pl/blog/programing/post/design-principles-zasady-projektowe-stosowane-we-wzorcach - Kilka słów o wzorcach projektwych.
+* http://cezarywalenciuk.pl/blog/programing/post/design-principles-zasady-projektowe-stosowane-we-wzorcach - Kilka słów o wzorcach projektowych.
 * https://github.com/sahat/hackathon-starter - Jeśli ktoś udziela się hackathona to warto zapoznać się z tym projektem.
 * http://sekurak.pl/ukryte-katalogi-i-pliki-jako-zrodlo-informacji-o-aplikacjach-internetowych/ - Pamiętajcie o nie kopiowaniu na serwer projektu, tylko aplikację!
 
@@ -968,7 +1020,7 @@
 
 * https://github.com/kenwheeler/cash/ - Mniejsze niż jQuery.
 * https://github.com/dylang/npm-check - Zarządzanie paczkami w Twoim projekcie w prosty sposób.
-* https://freecodecamp.com/ - Nauka JavaScriprt za darmo - od podstaw po frameworki!
+* https://freecodecamp.com/ - Nauka JavaScript za darmo - od podstaw po frameworki!
 
 ## Warto wiedzieć - 2016/04/07
 
@@ -1267,10 +1319,10 @@
 ## Warto wiedzieć - 2015/05/28 - Webpack
 
 * http://webpack.github.io/docs/tutorials/getting-started/ - Jak zacząć żyć z Webpackiem.
-* https://github.com/petehunt/webpack-howto - Przystępny poradnik jak użyć webpacka.
+* https://github.com/petehunt/webpack-howto - Przystępny poradnik jak użyć Webpacka.
 * https://www.youtube.com/watch?v=VkTCL6Nqm6Y - Świetna prezentacja Lead Developera Instagrama.
-* https://github.com/babel/babel-loader - Ładowanie plików ES6 do webpacka.
-* https://github.com/jtangelder/sass-loader - Ładowanie plików *.scss lub *.sass do webpacka.
+* https://github.com/babel/babel-loader - Ładowanie plików ES6 do Webpacka.
+* https://github.com/jtangelder/sass-loader - Ładowanie plików *.scss lub *.sass do Webpacka.
 * https://github.com/piecioshka/test-webpack - Przykładowa aplikacja w oparciu o ES6 (+ Source Maps) + SASS.
 
 ## Warto wiedzieć - 2015/05/21
@@ -1291,7 +1343,7 @@
 
 * http://hexo.io/ - Narzędzie do budowy aplikacji w stylu blogowym
 * http://satyr.github.io/coco/ - Ciekawy dialekt CoffeeScript-a
-* http://angular-formly.com/ - Formularze w Angularze? Tylko o tym marze!
+* http://angular-formly.com/ - Formularze w Angular? Tylko o tym marze!
 * http://ecmascript6.pl/ - Zbiór linków dotyczących najnowszej specyfikacji ECMAScript 6
 * https://mgechev.github.io/angularjs-in-patterns/ - Wzorce w AngularJS
 
@@ -1350,8 +1402,8 @@
 
 ## Warto wiedzieć - 2015/02/26 - Testowanie
 
-* http://martinfowler.com/articles/asyncJS.html - Artykuł o testowaniu asynchroniczny w JS (Martwin Folwer - tak to ten z gangu czworga)
-* http://dailyjs.com/2013/02/14/backbone-tutorial-12/ - Mokowanie w testach z użyciem SinonJS i Backbone.js
+* http://martinfowler.com/articles/asyncJS.html - Artykuł o testowaniu asynchroniczny w JS (Martin Folwer - tak to ten z gangu czworga)
+* http://dailyjs.com/2013/02/14/backbone-tutorial-12/ - Mockowanie w testach z użyciem SinonJS i Backbone.js
 * http://www.elijahmanor.com/unit-test-like-a-secret-agent-with-sinon-js/ - Ciekawy artykuł o testowaniu (Elijah Manor)
 * http://derickbailey.com/2014/04/23/mock-objects-in-nodejs-tests-with-jasmine-spies/ - Tworzenie imitacji (mock) w JasmineJS
 * https://facebook.github.io/jest/ - Przyjemna biblioteką do tworzenie testów (jednostkowych i integracyjnych).
