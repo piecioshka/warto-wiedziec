@@ -1,5 +1,11 @@
 # 🌤 Warto wiedzieć
 
+## Warto wiedzieć - 2020/04/30
+
+* ...
+
+--------------------------------------------------------------------------------
+
 ## Warto wiedzieć - 2020/04/23
 
 * https://github.com/totherik/jase — Piszesz skrypt w bashu bazujący na pliku JSON?
@@ -9,8 +15,6 @@
 * https://github.com/polonel/SnackBar — Toast, Snackbar... jakkolwiek, najważniejsze,
     że łatwo i przyjemnie poinformujesz użytkownika prezentując mu nieinwazyjny
     komunikat w dowolnym brzegu aplikacji webowej.
-
---------------------------------------------------------------------------------
 
 ## Warto wiedzieć - 2020/04/16
 
