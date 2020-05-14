@@ -1,10 +1,18 @@
 # 🌤 Warto wiedzieć
 
-## Warto wiedzieć - 2020/04/30
+## Warto wiedzieć - 2020/05/14
+
+* https://deno.land/v1 — Pierwsza stabilna wersja Deno — nowoczesnego runtime dla TypeScript
+
+--------------------------------------------------------------------------------
+
+## Warto wiedzieć - 2020/05/07
 
 * ...
 
---------------------------------------------------------------------------------
+## Warto wiedzieć - 2020/04/30
+
+* ...
 
 ## Warto wiedzieć - 2020/04/23
 
