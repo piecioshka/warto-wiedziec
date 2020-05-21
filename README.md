@@ -1,10 +1,14 @@
 # 🌤 Warto wiedzieć
 
+## Warto wiedzieć - 2020/05/28
+
+* ...
+
+--------------------------------------------------------------------------------
+
 ## Warto wiedzieć - 2020/05/21
 
 * https://github.com/elijahmanor/eslint-plugin-smells — ESLint rules for JavaScript Smells
-
---------------------------------------------------------------------------------
 
 ## Warto wiedzieć - 2020/05/14
 
