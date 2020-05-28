@@ -3,6 +3,7 @@
 ## Warto wiedzieć - 2020/05/28
 
 * https://github.com/phuoc-ng/csslayout — 100 typów layoutów na przykładzie
+* https://github.com/philipwalton/flexbugs — 20 bugów CSS Flexbox
 
 --------------------------------------------------------------------------------
 
